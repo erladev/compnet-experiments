@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-SRV=10.42.0.183
-OUTFILE=ntpquery.log
+SRV=ts2.univie.ac.at
+OUTFILE=ntpquery.demon.log
 SLEEP_INTVL=10s
 
 while true; do

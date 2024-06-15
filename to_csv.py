@@ -19,16 +19,32 @@ csv=csv.writer(sys.stdout, delimiter=' ', quotechar="'")
 
 if True:
     csv.writerow(fieldnames)
-
+DEVICE = sys.argv[1]
 while True:
     try:
         x=input()
         tokens = x.strip().split(" ")
         
-        date,time,_,delta,_,delta_prec,srv_addr,_,_,_=tokens
-        date = datetime.strptime(date + " " + time, "%Y-%m-%d %H:%M:%S.%f")
-        timestamp = date.timestamp()
-        del date,time
+        if DEVICE == "DEMON":
+            date,time,_,delta,_,delta_prec,srv_addr,_,_,_=tokens
+            date = datetime.strptime(date + " " + time, "%Y-%m-%d %H:%M:%S.%f")
+            timestamp = date.timestamp()
+            del date,time
+        elif DEVICE == "RASPI":
+            date,time,_,delta,_,delta_prec,srv_addr,_,_=tokens
+            date = datetime.strptime(date + " " + time, "%Y-%m-%d %H:%M:%S.%f")
+            timestamp = date.timestamp()
+            del date,time
+        elif DEVICE == "LAPTOP_EDON":
+            if tokens[0] == "server":
+                _,ipaddr,_,_,_,delta,_,delta_prec
+                y = input().strip().split(" ntpdate")
+                datetime = y[0]
+                timestamp = date.strptime(datetime, "%d %b %H:%M:%S")
+                timestamp = timestamp.timestamp()
+        elif DEVICE == "SAMSUNG":
+            pass
+    
         csv.writerow((timestamp, hostname, srv_addr, delta,delta_prec))
     except EOFError: break
     #except ValueError:
