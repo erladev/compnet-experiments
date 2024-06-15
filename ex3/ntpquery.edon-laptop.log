@@ -1,0 +1,1406 @@
+server 193.171.23.164, stratum 1, offset -4.889019, delay 0.06558
+15 Jun 18:09:23 ntpdate[26830]: step time server 193.171.23.164 offset -4.889019 sec
+server 193.171.23.164, stratum 1, offset -4.894980, delay 0.05193
+15 Jun 18:09:33 ntpdate[26836]: step time server 193.171.23.164 offset -4.894980 sec
+server 193.171.23.164, stratum 1, offset -4.914294, delay 0.08659
+15 Jun 18:09:43 ntpdate[26841]: step time server 193.171.23.164 offset -4.914294 sec
+server 193.171.23.164, stratum 1, offset -4.917928, delay 0.07831
+15 Jun 18:09:54 ntpdate[26848]: step time server 193.171.23.164 offset -4.917928 sec
+server 193.171.23.164, stratum 1, offset -4.911182, delay 0.05476
+15 Jun 18:10:04 ntpdate[26853]: step time server 193.171.23.164 offset -4.911182 sec
+server 193.171.23.164, stratum 1, offset -4.919719, delay 0.06375
+15 Jun 18:10:14 ntpdate[26859]: step time server 193.171.23.164 offset -4.919719 sec
+server 193.171.23.164, stratum 1, offset -4.922755, delay 0.05444
+15 Jun 18:10:24 ntpdate[26864]: step time server 193.171.23.164 offset -4.922755 sec
+server 193.171.23.164, stratum 1, offset -4.922517, delay 0.05046
+15 Jun 18:10:34 ntpdate[26870]: step time server 193.171.23.164 offset -4.922517 sec
+server 193.171.23.164, stratum 1, offset -4.928728, delay 0.05809
+15 Jun 18:10:44 ntpdate[26877]: step time server 193.171.23.164 offset -4.928728 sec
+server 193.171.23.164, stratum 1, offset -4.933507, delay 0.05315
+15 Jun 18:10:54 ntpdate[26885]: step time server 193.171.23.164 offset -4.933507 sec
+server 193.171.23.164, stratum 1, offset -4.940730, delay 0.05428
+15 Jun 18:11:05 ntpdate[26890]: step time server 193.171.23.164 offset -4.940730 sec
+server 193.171.23.164, stratum 1, offset -4.948325, delay 0.05464
+15 Jun 18:11:15 ntpdate[26898]: step time server 193.171.23.164 offset -4.948325 sec
+server 193.171.23.164, stratum 1, offset -4.951199, delay 0.05415
+15 Jun 18:11:25 ntpdate[26908]: step time server 193.171.23.164 offset -4.951199 sec
+server 193.171.23.164, stratum 1, offset -4.952956, delay 0.05489
+15 Jun 18:11:35 ntpdate[26914]: step time server 193.171.23.164 offset -4.952956 sec
+server 193.171.23.164, stratum 1, offset -4.957304, delay 0.04391
+15 Jun 18:11:45 ntpdate[26919]: step time server 193.171.23.164 offset -4.957304 sec
+server 193.171.23.164, stratum 1, offset -4.972970, delay 0.06299
+15 Jun 18:11:55 ntpdate[26924]: step time server 193.171.23.164 offset -4.972970 sec
+server 193.171.23.164, stratum 1, offset -4.966338, delay 0.04848
+15 Jun 18:12:05 ntpdate[26930]: step time server 193.171.23.164 offset -4.966338 sec
+server 193.171.23.164, stratum 1, offset -4.977073, delay 0.04616
+15 Jun 18:12:16 ntpdate[26935]: step time server 193.171.23.164 offset -4.977073 sec
+server 193.171.23.164, stratum 1, offset -4.991370, delay 0.06877
+15 Jun 18:12:26 ntpdate[26940]: step time server 193.171.23.164 offset -4.991370 sec
+server 193.171.23.164, stratum 1, offset -4.986254, delay 0.05478
+15 Jun 18:12:36 ntpdate[26946]: step time server 193.171.23.164 offset -4.986254 sec
+server 193.171.23.164, stratum 1, offset -4.996939, delay 0.05464
+15 Jun 18:12:46 ntpdate[26952]: step time server 193.171.23.164 offset -4.996939 sec
+server 193.171.23.164, stratum 1, offset -4.996514, delay 0.05443
+15 Jun 18:12:56 ntpdate[26957]: step time server 193.171.23.164 offset -4.996514 sec
+server 193.171.23.164, stratum 1, offset -5.003377, delay 0.05438
+15 Jun 18:13:06 ntpdate[26963]: step time server 193.171.23.164 offset -5.003377 sec
+server 193.171.23.164, stratum 1, offset -5.005237, delay 0.05443
+15 Jun 18:13:16 ntpdate[26968]: step time server 193.171.23.164 offset -5.005237 sec
+server 193.171.23.164, stratum 1, offset -5.005971, delay 0.05440
+15 Jun 18:13:27 ntpdate[26973]: step time server 193.171.23.164 offset -5.005971 sec
+server 193.171.23.164, stratum 1, offset -5.016972, delay 0.04765
+15 Jun 18:13:37 ntpdate[26980]: step time server 193.171.23.164 offset -5.016972 sec
+server 193.171.23.164, stratum 1, offset -5.008839, delay 0.06386
+15 Jun 18:13:47 ntpdate[26986]: step time server 193.171.23.164 offset -5.008839 sec
+server 193.171.23.164, stratum 1, offset -5.030176, delay 0.05132
+15 Jun 18:13:57 ntpdate[26991]: step time server 193.171.23.164 offset -5.030176 sec
+server 193.171.23.164, stratum 1, offset -5.035381, delay 0.05447
+15 Jun 18:14:07 ntpdate[26998]: step time server 193.171.23.164 offset -5.035381 sec
+server 193.171.23.164, stratum 1, offset -5.039232, delay 0.05486
+15 Jun 18:14:17 ntpdate[27010]: step time server 193.171.23.164 offset -5.039232 sec
+server 193.171.23.164, stratum 1, offset -5.044113, delay 0.05373
+15 Jun 18:14:27 ntpdate[27017]: step time server 193.171.23.164 offset -5.044113 sec
+server 193.171.23.164, stratum 1, offset -5.044511, delay 0.05399
+15 Jun 18:14:38 ntpdate[27022]: step time server 193.171.23.164 offset -5.044511 sec
+server 193.171.23.164, stratum 1, offset -5.054756, delay 0.05455
+15 Jun 18:14:48 ntpdate[27030]: step time server 193.171.23.164 offset -5.054756 sec
+server 193.171.23.164, stratum 1, offset -5.055564, delay 0.05367
+15 Jun 18:14:58 ntpdate[27035]: step time server 193.171.23.164 offset -5.055564 sec
+server 193.171.23.164, stratum 1, offset -5.064260, delay 0.05444
+15 Jun 18:15:08 ntpdate[27041]: step time server 193.171.23.164 offset -5.064260 sec
+server 193.171.23.164, stratum 1, offset -5.072165, delay 0.05408
+15 Jun 18:15:18 ntpdate[27046]: step time server 193.171.23.164 offset -5.072165 sec
+server 193.171.23.164, stratum 1, offset -5.075475, delay 0.05400
+15 Jun 18:15:28 ntpdate[27052]: step time server 193.171.23.164 offset -5.075475 sec
+server 193.171.23.164, stratum 1, offset -5.083434, delay 0.05478
+15 Jun 18:15:38 ntpdate[27058]: step time server 193.171.23.164 offset -5.083434 sec
+server 193.171.23.164, stratum 1, offset -5.085988, delay 0.05423
+15 Jun 18:15:49 ntpdate[27064]: step time server 193.171.23.164 offset -5.085988 sec
+server 193.171.23.164, stratum 1, offset -5.091600, delay 0.05376
+15 Jun 18:15:59 ntpdate[27069]: step time server 193.171.23.164 offset -5.091600 sec
+server 193.171.23.164, stratum 1, offset -5.095965, delay 0.05325
+15 Jun 18:16:09 ntpdate[27075]: step time server 193.171.23.164 offset -5.095965 sec
+server 193.171.23.164, stratum 1, offset -5.101700, delay 0.05446
+15 Jun 18:16:19 ntpdate[27083]: step time server 193.171.23.164 offset -5.101700 sec
+server 193.171.23.164, stratum 1, offset -5.103824, delay 0.05421
+15 Jun 18:16:29 ntpdate[27091]: step time server 193.171.23.164 offset -5.103824 sec
+server 193.171.23.164, stratum 1, offset -5.115744, delay 0.05431
+15 Jun 18:16:39 ntpdate[27096]: step time server 193.171.23.164 offset -5.115744 sec
+server 193.171.23.164, stratum 1, offset -5.119179, delay 0.05354
+15 Jun 18:16:49 ntpdate[27104]: step time server 193.171.23.164 offset -5.119179 sec
+server 193.171.23.164, stratum 1, offset -5.124358, delay 0.05399
+15 Jun 18:17:00 ntpdate[27110]: step time server 193.171.23.164 offset -5.124358 sec
+server 193.171.23.164, stratum 1, offset -5.128249, delay 0.05443
+15 Jun 18:17:10 ntpdate[27119]: step time server 193.171.23.164 offset -5.128249 sec
+server 193.171.23.164, stratum 1, offset -5.134413, delay 0.05421
+15 Jun 18:17:20 ntpdate[27124]: step time server 193.171.23.164 offset -5.134413 sec
+server 193.171.23.164, stratum 1, offset -5.137216, delay 0.05243
+15 Jun 18:17:30 ntpdate[27130]: step time server 193.171.23.164 offset -5.137216 sec
+server 193.171.23.164, stratum 1, offset -5.227393, delay 0.23221
+15 Jun 18:17:40 ntpdate[27136]: step time server 193.171.23.164 offset -5.227393 sec
+server 193.171.23.164, stratum 1, offset -5.152228, delay 0.05424
+15 Jun 18:17:50 ntpdate[27142]: step time server 193.171.23.164 offset -5.152228 sec
+server 193.171.23.164, stratum 1, offset -5.153157, delay 0.05435
+15 Jun 18:18:01 ntpdate[27147]: step time server 193.171.23.164 offset -5.153157 sec
+server 193.171.23.164, stratum 1, offset -5.162181, delay 0.05415
+15 Jun 18:18:11 ntpdate[27155]: step time server 193.171.23.164 offset -5.162181 sec
+server 193.171.23.164, stratum 1, offset -5.163277, delay 0.05400
+15 Jun 18:18:21 ntpdate[27160]: step time server 193.171.23.164 offset -5.163277 sec
+server 193.171.23.164, stratum 1, offset -5.166188, delay 0.05284
+15 Jun 18:18:31 ntpdate[27166]: step time server 193.171.23.164 offset -5.166188 sec
+server 193.171.23.164, stratum 1, offset -5.171595, delay 0.05482
+15 Jun 18:18:41 ntpdate[27172]: step time server 193.171.23.164 offset -5.171595 sec
+server 193.171.23.164, stratum 1, offset -5.339666, delay 0.36359
+15 Jun 18:18:52 ntpdate[27180]: step time server 193.171.23.164 offset -5.339666 sec
+server 193.171.23.164, stratum 1, offset -5.189741, delay 0.05408
+15 Jun 18:19:02 ntpdate[27185]: step time server 193.171.23.164 offset -5.189741 sec
+server 193.171.23.164, stratum 1, offset -5.194274, delay 0.05478
+15 Jun 18:19:12 ntpdate[27192]: step time server 193.171.23.164 offset -5.194274 sec
+server 193.171.23.164, stratum 1, offset -5.198212, delay 0.05225
+15 Jun 18:19:22 ntpdate[27197]: step time server 193.171.23.164 offset -5.198212 sec
+server 193.171.23.164, stratum 1, offset -5.201582, delay 0.05423
+15 Jun 18:19:32 ntpdate[27203]: step time server 193.171.23.164 offset -5.201582 sec
+server 193.171.23.164, stratum 1, offset -5.204199, delay 0.05582
+15 Jun 18:19:42 ntpdate[27208]: step time server 193.171.23.164 offset -5.204199 sec
+server 193.171.23.164, stratum 1, offset -5.211916, delay 0.05441
+15 Jun 18:19:52 ntpdate[27214]: step time server 193.171.23.164 offset -5.211916 sec
+server 193.171.23.164, stratum 1, offset -5.221660, delay 0.05615
+15 Jun 18:20:03 ntpdate[27219]: step time server 193.171.23.164 offset -5.221660 sec
+server 193.171.23.164, stratum 1, offset -5.219931, delay 0.03925
+15 Jun 18:20:13 ntpdate[27227]: step time server 193.171.23.164 offset -5.219931 sec
+server 193.171.23.164, stratum 1, offset -5.218076, delay 0.04703
+15 Jun 18:20:23 ntpdate[27232]: step time server 193.171.23.164 offset -5.218076 sec
+server 193.171.23.164, stratum 1, offset -5.224174, delay 0.04326
+15 Jun 18:20:33 ntpdate[27238]: step time server 193.171.23.164 offset -5.224174 sec
+server 193.171.23.164, stratum 1, offset -5.257049, delay 0.08372
+15 Jun 18:20:43 ntpdate[27244]: step time server 193.171.23.164 offset -5.257049 sec
+server 193.171.23.164, stratum 1, offset -5.238632, delay 0.03902
+15 Jun 18:20:53 ntpdate[27249]: step time server 193.171.23.164 offset -5.238632 sec
+server 193.171.23.164, stratum 1, offset -5.241953, delay 0.04099
+15 Jun 18:21:03 ntpdate[27254]: step time server 193.171.23.164 offset -5.241953 sec
+server 193.171.23.164, stratum 1, offset -5.268088, delay 0.08484
+15 Jun 18:21:14 ntpdate[27261]: step time server 193.171.23.164 offset -5.268088 sec
+server 193.171.23.164, stratum 1, offset -5.255450, delay 0.04066
+15 Jun 18:21:24 ntpdate[27266]: step time server 193.171.23.164 offset -5.255450 sec
+server 193.171.23.164, stratum 1, offset -5.294086, delay 0.16898
+15 Jun 18:21:34 ntpdate[27275]: step time server 193.171.23.164 offset -5.294086 sec
+server 193.171.23.164, stratum 1, offset -5.309507, delay 0.15683
+15 Jun 18:21:44 ntpdate[27281]: step time server 193.171.23.164 offset -5.309507 sec
+server 193.171.23.164, stratum 1, offset -5.271896, delay 0.05417
+15 Jun 18:21:54 ntpdate[27286]: step time server 193.171.23.164 offset -5.271896 sec
+server 193.171.23.164, stratum 1, offset -5.281204, delay 0.05386
+15 Jun 18:22:05 ntpdate[27291]: step time server 193.171.23.164 offset -5.281204 sec
+server 193.171.23.164, stratum 1, offset -5.279776, delay 0.05418
+15 Jun 18:22:15 ntpdate[27297]: step time server 193.171.23.164 offset -5.279776 sec
+server 193.171.23.164, stratum 1, offset -5.290297, delay 0.05539
+15 Jun 18:22:25 ntpdate[27302]: step time server 193.171.23.164 offset -5.290297 sec
+server 193.171.23.164, stratum 1, offset -5.298368, delay 0.05173
+15 Jun 18:22:35 ntpdate[27308]: step time server 193.171.23.164 offset -5.298368 sec
+server 193.171.23.164, stratum 1, offset -5.300557, delay 0.05365
+15 Jun 18:22:45 ntpdate[27314]: step time server 193.171.23.164 offset -5.300557 sec
+server 193.171.23.164, stratum 1, offset -5.305963, delay 0.05264
+15 Jun 18:22:55 ntpdate[27319]: step time server 193.171.23.164 offset -5.305963 sec
+server 193.171.23.164, stratum 1, offset -5.307156, delay 0.05429
+15 Jun 18:23:05 ntpdate[27324]: step time server 193.171.23.164 offset -5.307156 sec
+server 193.171.23.164, stratum 1, offset -5.319413, delay 0.05437
+15 Jun 18:23:16 ntpdate[27330]: step time server 193.171.23.164 offset -5.319413 sec
+server 193.171.23.164, stratum 1, offset -5.324843, delay 0.05693
+15 Jun 18:23:26 ntpdate[27335]: step time server 193.171.23.164 offset -5.324843 sec
+server 193.171.23.164, stratum 1, offset -5.327100, delay 0.05464
+15 Jun 18:23:36 ntpdate[27342]: step time server 193.171.23.164 offset -5.327100 sec
+server 193.171.23.164, stratum 1, offset -5.334198, delay 0.05505
+15 Jun 18:23:46 ntpdate[27348]: step time server 193.171.23.164 offset -5.334198 sec
+server 193.171.23.164, stratum 1, offset -5.339096, delay 0.05325
+15 Jun 18:23:56 ntpdate[27353]: step time server 193.171.23.164 offset -5.339096 sec
+server 193.171.23.164, stratum 1, offset -5.333992, delay 0.05348
+15 Jun 18:24:06 ntpdate[27359]: step time server 193.171.23.164 offset -5.333992 sec
+server 193.171.23.164, stratum 1, offset -5.345026, delay 0.05409
+15 Jun 18:24:16 ntpdate[27370]: step time server 193.171.23.164 offset -5.345026 sec
+server 193.171.23.164, stratum 1, offset -5.350791, delay 0.05470
+15 Jun 18:24:27 ntpdate[27382]: step time server 193.171.23.164 offset -5.350791 sec
+server 193.171.23.164, stratum 1, offset -5.356012, delay 0.05421
+15 Jun 18:24:37 ntpdate[27388]: step time server 193.171.23.164 offset -5.356012 sec
+server 193.171.23.164, stratum 1, offset -5.362964, delay 0.05568
+15 Jun 18:24:47 ntpdate[27394]: step time server 193.171.23.164 offset -5.362964 sec
+server 193.171.23.164, stratum 1, offset -5.372933, delay 0.05690
+15 Jun 18:24:57 ntpdate[27399]: step time server 193.171.23.164 offset -5.372933 sec
+server 193.171.23.164, stratum 1, offset -5.379911, delay 0.05495
+15 Jun 18:25:07 ntpdate[27405]: step time server 193.171.23.164 offset -5.379911 sec
+server 193.171.23.164, stratum 1, offset -5.376562, delay 0.05205
+15 Jun 18:25:17 ntpdate[27410]: step time server 193.171.23.164 offset -5.376562 sec
+server 193.171.23.164, stratum 1, offset -5.390825, delay 0.05536
+15 Jun 18:25:27 ntpdate[27416]: step time server 193.171.23.164 offset -5.390825 sec
+server 193.171.23.164, stratum 1, offset -5.390485, delay 0.05154
+15 Jun 18:25:38 ntpdate[27422]: step time server 193.171.23.164 offset -5.390485 sec
+server 193.171.23.164, stratum 1, offset -5.399308, delay 0.05408
+15 Jun 18:25:48 ntpdate[27428]: step time server 193.171.23.164 offset -5.399308 sec
+server 193.171.23.164, stratum 1, offset -5.403893, delay 0.05373
+15 Jun 18:25:58 ntpdate[27433]: step time server 193.171.23.164 offset -5.403893 sec
+server 193.171.23.164, stratum 1, offset -5.403433, delay 0.05409
+15 Jun 18:26:08 ntpdate[27439]: step time server 193.171.23.164 offset -5.403433 sec
+server 193.171.23.164, stratum 1, offset -5.412625, delay 0.05542
+15 Jun 18:26:18 ntpdate[27444]: step time server 193.171.23.164 offset -5.412625 sec
+server 193.171.23.164, stratum 1, offset -5.411744, delay 0.05583
+15 Jun 18:26:28 ntpdate[27450]: step time server 193.171.23.164 offset -5.411744 sec
+server 193.171.23.164, stratum 1, offset -5.418560, delay 0.05176
+15 Jun 18:26:38 ntpdate[27456]: step time server 193.171.23.164 offset -5.418560 sec
+server 193.171.23.164, stratum 1, offset -5.428198, delay 0.05420
+15 Jun 18:26:49 ntpdate[27463]: step time server 193.171.23.164 offset -5.428198 sec
+server 193.171.23.164, stratum 1, offset -5.435155, delay 0.05299
+15 Jun 18:26:59 ntpdate[27470]: step time server 193.171.23.164 offset -5.435155 sec
+server 193.171.23.164, stratum 1, offset -5.436730, delay 0.05421
+15 Jun 18:27:09 ntpdate[27476]: step time server 193.171.23.164 offset -5.436730 sec
+server 193.171.23.164, stratum 1, offset -5.478494, delay 0.15761
+15 Jun 18:27:19 ntpdate[27481]: step time server 193.171.23.164 offset -5.478494 sec
+server 193.171.23.164, stratum 1, offset -5.451605, delay 0.05304
+15 Jun 18:27:29 ntpdate[27487]: step time server 193.171.23.164 offset -5.451605 sec
+server 193.171.23.164, stratum 1, offset -5.492296, delay 0.13008
+15 Jun 18:27:39 ntpdate[27493]: step time server 193.171.23.164 offset -5.492296 sec
+server 193.171.23.164, stratum 1, offset -5.490840, delay 0.15694
+15 Jun 18:27:50 ntpdate[27498]: step time server 193.171.23.164 offset -5.490840 sec
+server 193.171.23.164, stratum 1, offset -5.468924, delay 0.05434
+15 Jun 18:28:00 ntpdate[27503]: step time server 193.171.23.164 offset -5.468924 sec
+server 193.171.23.164, stratum 1, offset -5.468428, delay 0.05258
+15 Jun 18:28:10 ntpdate[27509]: step time server 193.171.23.164 offset -5.468428 sec
+server 193.171.23.164, stratum 1, offset -5.477479, delay 0.05563
+15 Jun 18:28:20 ntpdate[27514]: step time server 193.171.23.164 offset -5.477479 sec
+server 193.171.23.164, stratum 1, offset -5.481296, delay 0.05304
+15 Jun 18:28:30 ntpdate[27520]: step time server 193.171.23.164 offset -5.481296 sec
+server 193.171.23.164, stratum 1, offset -5.482787, delay 0.05168
+15 Jun 18:28:40 ntpdate[27526]: step time server 193.171.23.164 offset -5.482787 sec
+server 193.171.23.164, stratum 1, offset -5.492907, delay 0.05597
+15 Jun 18:28:51 ntpdate[27532]: step time server 193.171.23.164 offset -5.492907 sec
+server 193.171.23.164, stratum 1, offset -5.494878, delay 0.05437
+15 Jun 18:29:01 ntpdate[27538]: step time server 193.171.23.164 offset -5.494878 sec
+server 193.171.23.164, stratum 1, offset -5.501162, delay 0.05424
+15 Jun 18:29:11 ntpdate[27544]: step time server 193.171.23.164 offset -5.501162 sec
+server 193.171.23.164, stratum 1, offset -5.509051, delay 0.05388
+15 Jun 18:29:21 ntpdate[27549]: step time server 193.171.23.164 offset -5.509051 sec
+server 193.171.23.164, stratum 1, offset -5.511394, delay 0.05331
+15 Jun 18:29:31 ntpdate[27555]: step time server 193.171.23.164 offset -5.511394 sec
+server 193.171.23.164, stratum 1, offset -5.539244, delay 0.09636
+15 Jun 18:29:41 ntpdate[27565]: step time server 193.171.23.164 offset -5.539244 sec
+server 193.171.23.164, stratum 1, offset -5.527489, delay 0.06636
+15 Jun 18:29:52 ntpdate[27570]: step time server 193.171.23.164 offset -5.527489 sec
+server 193.171.23.164, stratum 1, offset -5.530310, delay 0.05742
+15 Jun 18:30:02 ntpdate[27577]: step time server 193.171.23.164 offset -5.530310 sec
+server 193.171.23.164, stratum 1, offset -5.531714, delay 0.04973
+15 Jun 18:30:12 ntpdate[27583]: step time server 193.171.23.164 offset -5.531714 sec
+server 193.171.23.164, stratum 1, offset -5.539728, delay 0.05139
+15 Jun 18:30:22 ntpdate[27589]: step time server 193.171.23.164 offset -5.539728 sec
+server 193.171.23.164, stratum 1, offset -5.538203, delay 0.03928
+15 Jun 18:30:32 ntpdate[27595]: step time server 193.171.23.164 offset -5.538203 sec
+server 193.171.23.164, stratum 1, offset -5.546858, delay 0.04321
+15 Jun 18:30:42 ntpdate[27603]: step time server 193.171.23.164 offset -5.546858 sec
+server 193.171.23.164, stratum 1, offset -5.565318, delay 0.07256
+15 Jun 18:30:52 ntpdate[27608]: step time server 193.171.23.164 offset -5.565318 sec
+server 193.171.23.164, stratum 1, offset -5.567820, delay 0.06506
+15 Jun 18:31:03 ntpdate[27616]: step time server 193.171.23.164 offset -5.567820 sec
+server 193.171.23.164, stratum 1, offset -5.566224, delay 0.05148
+15 Jun 18:31:13 ntpdate[27622]: step time server 193.171.23.164 offset -5.566224 sec
+server 193.171.23.164, stratum 1, offset -5.562940, delay 0.05394
+15 Jun 18:31:23 ntpdate[27627]: step time server 193.171.23.164 offset -5.562940 sec
+server 193.171.23.164, stratum 1, offset -5.574121, delay 0.05434
+15 Jun 18:31:33 ntpdate[27634]: step time server 193.171.23.164 offset -5.574121 sec
+server 193.171.23.164, stratum 1, offset -5.610981, delay 0.11961
+15 Jun 18:31:43 ntpdate[27641]: step time server 193.171.23.164 offset -5.610981 sec
+server 193.171.23.164, stratum 1, offset -5.585165, delay 0.05257
+15 Jun 18:31:53 ntpdate[27646]: step time server 193.171.23.164 offset -5.585165 sec
+server 193.171.23.164, stratum 1, offset -5.618514, delay 0.15523
+15 Jun 18:32:04 ntpdate[27651]: step time server 193.171.23.164 offset -5.618514 sec
+server 193.171.23.164, stratum 1, offset -5.595238, delay 0.05229
+15 Jun 18:32:14 ntpdate[27657]: step time server 193.171.23.164 offset -5.595238 sec
+server 193.171.23.164, stratum 1, offset -5.601566, delay 0.05612
+15 Jun 18:32:24 ntpdate[27662]: step time server 193.171.23.164 offset -5.601566 sec
+server 193.171.23.164, stratum 1, offset -5.608977, delay 0.05435
+15 Jun 18:32:34 ntpdate[27668]: step time server 193.171.23.164 offset -5.608977 sec
+server 193.171.23.164, stratum 1, offset -5.614400, delay 0.05446
+15 Jun 18:32:44 ntpdate[27677]: step time server 193.171.23.164 offset -5.614400 sec
+server 193.171.23.164, stratum 1, offset -5.621831, delay 0.05702
+15 Jun 18:32:54 ntpdate[27682]: step time server 193.171.23.164 offset -5.621831 sec
+server 193.171.23.164, stratum 1, offset -5.622701, delay 0.04962
+15 Jun 18:33:04 ntpdate[27687]: step time server 193.171.23.164 offset -5.622701 sec
+server 193.171.23.164, stratum 1, offset -5.626675, delay 0.05434
+15 Jun 18:33:15 ntpdate[27695]: step time server 193.171.23.164 offset -5.626675 sec
+server 193.171.23.164, stratum 1, offset -5.632737, delay 0.05872
+15 Jun 18:33:25 ntpdate[27700]: step time server 193.171.23.164 offset -5.632737 sec
+server 193.171.23.164, stratum 1, offset -5.626208, delay 0.04961
+15 Jun 18:33:35 ntpdate[27707]: step time server 193.171.23.164 offset -5.626208 sec
+server 193.171.23.164, stratum 1, offset -5.636750, delay 0.05396
+15 Jun 18:33:45 ntpdate[27712]: step time server 193.171.23.164 offset -5.636750 sec
+server 193.171.23.164, stratum 1, offset -5.645101, delay 0.05414
+15 Jun 18:33:55 ntpdate[27717]: step time server 193.171.23.164 offset -5.645101 sec
+server 193.171.23.164, stratum 1, offset -5.652156, delay 0.04584
+15 Jun 18:34:05 ntpdate[27722]: step time server 193.171.23.164 offset -5.652156 sec
+server 193.171.23.164, stratum 1, offset -5.664264, delay 0.06322
+15 Jun 18:34:15 ntpdate[27728]: step time server 193.171.23.164 offset -5.664264 sec
+server 193.171.23.164, stratum 1, offset -5.661162, delay 0.05620
+15 Jun 18:34:26 ntpdate[27733]: step time server 193.171.23.164 offset -5.661162 sec
+server 193.171.23.164, stratum 1, offset -5.715060, delay 0.14735
+15 Jun 18:34:36 ntpdate[27739]: step time server 193.171.23.164 offset -5.715060 sec
+server 193.171.23.164, stratum 1, offset -5.676391, delay 0.05261
+15 Jun 18:34:46 ntpdate[27746]: step time server 193.171.23.164 offset -5.676391 sec
+server 193.171.23.164, stratum 1, offset -5.683271, delay 0.05444
+15 Jun 18:34:56 ntpdate[27751]: step time server 193.171.23.164 offset -5.683271 sec
+server 193.171.23.164, stratum 1, offset -5.687116, delay 0.05557
+15 Jun 18:35:06 ntpdate[27756]: step time server 193.171.23.164 offset -5.687116 sec
+server 193.171.23.164, stratum 1, offset -5.696629, delay 0.07141
+15 Jun 18:35:16 ntpdate[27762]: step time server 193.171.23.164 offset -5.696629 sec
+server 193.171.23.164, stratum 1, offset -5.736233, delay 0.13988
+15 Jun 18:35:27 ntpdate[27767]: step time server 193.171.23.164 offset -5.736233 sec
+server 193.171.23.164, stratum 1, offset -5.699545, delay 0.05276
+15 Jun 18:35:37 ntpdate[27775]: step time server 193.171.23.164 offset -5.699545 sec
+server 193.171.23.164, stratum 1, offset -5.709989, delay 0.05612
+15 Jun 18:35:47 ntpdate[27781]: step time server 193.171.23.164 offset -5.709989 sec
+server 193.171.23.164, stratum 1, offset -5.715107, delay 0.05804
+15 Jun 18:35:57 ntpdate[27786]: step time server 193.171.23.164 offset -5.715107 sec
+server 193.171.23.164, stratum 1, offset -5.711441, delay 0.04881
+15 Jun 18:36:07 ntpdate[27792]: step time server 193.171.23.164 offset -5.711441 sec
+server 193.171.23.164, stratum 1, offset -5.721330, delay 0.05557
+15 Jun 18:36:17 ntpdate[27800]: step time server 193.171.23.164 offset -5.721330 sec
+server 193.171.23.164, stratum 1, offset -5.728681, delay 0.05243
+15 Jun 18:36:28 ntpdate[27806]: step time server 193.171.23.164 offset -5.728681 sec
+server 193.171.23.164, stratum 1, offset -5.734984, delay 0.05370
+15 Jun 18:36:38 ntpdate[27811]: step time server 193.171.23.164 offset -5.734984 sec
+server 193.171.23.164, stratum 1, offset -5.736638, delay 0.05212
+15 Jun 18:36:48 ntpdate[27818]: step time server 193.171.23.164 offset -5.736638 sec
+server 193.171.23.164, stratum 1, offset -5.741017, delay 0.05400
+15 Jun 18:36:58 ntpdate[27824]: step time server 193.171.23.164 offset -5.741017 sec
+server 193.171.23.164, stratum 1, offset -5.745923, delay 0.05411
+15 Jun 18:37:08 ntpdate[27830]: step time server 193.171.23.164 offset -5.745923 sec
+server 193.171.23.164, stratum 1, offset -5.752229, delay 0.05435
+15 Jun 18:37:18 ntpdate[27837]: step time server 193.171.23.164 offset -5.752229 sec
+server 193.171.23.164, stratum 1, offset -5.761272, delay 0.05583
+15 Jun 18:37:28 ntpdate[27843]: step time server 193.171.23.164 offset -5.761272 sec
+server 193.171.23.164, stratum 1, offset -5.753962, delay 0.04396
+15 Jun 18:37:39 ntpdate[27848]: step time server 193.171.23.164 offset -5.753962 sec
+server 193.171.23.164, stratum 1, offset -5.814139, delay 0.14206
+15 Jun 18:37:49 ntpdate[27854]: step time server 193.171.23.164 offset -5.814139 sec
+server 193.171.23.164, stratum 1, offset -5.772089, delay 0.05292
+15 Jun 18:37:59 ntpdate[27859]: step time server 193.171.23.164 offset -5.772089 sec
+server 193.171.23.164, stratum 1, offset -5.780548, delay 0.05402
+15 Jun 18:38:09 ntpdate[27865]: step time server 193.171.23.164 offset -5.780548 sec
+server 193.171.23.164, stratum 1, offset -5.787328, delay 0.05380
+15 Jun 18:38:19 ntpdate[27870]: step time server 193.171.23.164 offset -5.787328 sec
+server 193.171.23.164, stratum 1, offset -5.789744, delay 0.05511
+15 Jun 18:38:29 ntpdate[27876]: step time server 193.171.23.164 offset -5.789744 sec
+server 193.171.23.164, stratum 1, offset -5.794231, delay 0.05240
+15 Jun 18:38:39 ntpdate[27882]: step time server 193.171.23.164 offset -5.794231 sec
+server 193.171.23.164, stratum 1, offset -5.801913, delay 0.05537
+15 Jun 18:38:50 ntpdate[27889]: step time server 193.171.23.164 offset -5.801913 sec
+server 193.171.23.164, stratum 1, offset -5.806481, delay 0.05240
+15 Jun 18:39:00 ntpdate[27894]: step time server 193.171.23.164 offset -5.806481 sec
+server 193.171.23.164, stratum 1, offset -5.804793, delay 0.05447
+15 Jun 18:39:10 ntpdate[27900]: step time server 193.171.23.164 offset -5.804793 sec
+server 193.171.23.164, stratum 1, offset -5.817022, delay 0.05460
+15 Jun 18:39:20 ntpdate[27906]: step time server 193.171.23.164 offset -5.817022 sec
+server 193.171.23.164, stratum 1, offset -5.823026, delay 0.05434
+15 Jun 18:39:30 ntpdate[27912]: step time server 193.171.23.164 offset -5.823026 sec
+server 193.171.23.164, stratum 1, offset -5.825118, delay 0.05423
+15 Jun 18:39:40 ntpdate[27917]: step time server 193.171.23.164 offset -5.825118 sec
+server 193.171.23.164, stratum 1, offset -5.834528, delay 0.05640
+15 Jun 18:39:50 ntpdate[27923]: step time server 193.171.23.164 offset -5.834528 sec
+server 193.171.23.164, stratum 1, offset -5.840479, delay 0.05394
+15 Jun 18:40:01 ntpdate[27928]: step time server 193.171.23.164 offset -5.840479 sec
+server 193.171.23.164, stratum 1, offset -5.844984, delay 0.05331
+15 Jun 18:40:11 ntpdate[27934]: step time server 193.171.23.164 offset -5.844984 sec
+server 193.171.23.164, stratum 1, offset -5.845044, delay 0.05623
+15 Jun 18:40:21 ntpdate[27939]: step time server 193.171.23.164 offset -5.845044 sec
+server 193.171.23.164, stratum 1, offset -5.842103, delay 0.04932
+15 Jun 18:40:31 ntpdate[27945]: step time server 193.171.23.164 offset -5.842103 sec
+server 193.171.23.164, stratum 1, offset -5.857465, delay 0.05362
+15 Jun 18:40:41 ntpdate[27950]: step time server 193.171.23.164 offset -5.857465 sec
+server 193.171.23.164, stratum 1, offset -5.859825, delay 0.05325
+15 Jun 18:40:51 ntpdate[27956]: step time server 193.171.23.164 offset -5.859825 sec
+server 193.171.23.164, stratum 1, offset -5.863999, delay 0.05919
+15 Jun 18:41:01 ntpdate[27961]: step time server 193.171.23.164 offset -5.863999 sec
+server 193.171.23.164, stratum 1, offset -5.868975, delay 0.04652
+15 Jun 18:41:12 ntpdate[27967]: step time server 193.171.23.164 offset -5.868975 sec
+server 193.171.23.164, stratum 1, offset -5.875301, delay 0.05305
+15 Jun 18:41:22 ntpdate[27972]: step time server 193.171.23.164 offset -5.875301 sec
+server 193.171.23.164, stratum 1, offset -5.884079, delay 0.05363
+15 Jun 18:41:32 ntpdate[27978]: step time server 193.171.23.164 offset -5.884079 sec
+server 193.171.23.164, stratum 1, offset -5.889101, delay 0.05620
+15 Jun 18:41:42 ntpdate[27983]: step time server 193.171.23.164 offset -5.889101 sec
+server 193.171.23.164, stratum 1, offset -5.896767, delay 0.05457
+15 Jun 18:41:52 ntpdate[28001]: step time server 193.171.23.164 offset -5.896767 sec
+server 193.171.23.164, stratum 1, offset -5.897960, delay 0.05325
+15 Jun 18:42:02 ntpdate[28006]: step time server 193.171.23.164 offset -5.897960 sec
+server 193.171.23.164, stratum 1, offset -5.903545, delay 0.05423
+15 Jun 18:42:12 ntpdate[28014]: step time server 193.171.23.164 offset -5.903545 sec
+server 193.171.23.164, stratum 1, offset -5.911196, delay 0.05469
+15 Jun 18:42:23 ntpdate[28019]: step time server 193.171.23.164 offset -5.911196 sec
+server 193.171.23.164, stratum 1, offset -5.907528, delay 0.04915
+15 Jun 18:42:33 ntpdate[28025]: step time server 193.171.23.164 offset -5.907528 sec
+server 193.171.23.164, stratum 1, offset -5.923186, delay 0.05392
+15 Jun 18:42:43 ntpdate[28031]: step time server 193.171.23.164 offset -5.923186 sec
+server 193.171.23.164, stratum 1, offset -5.962932, delay 0.12973
+15 Jun 18:42:53 ntpdate[28036]: step time server 193.171.23.164 offset -5.962932 sec
+server 193.171.23.164, stratum 1, offset -5.929191, delay 0.05066
+15 Jun 18:43:03 ntpdate[28041]: step time server 193.171.23.164 offset -5.929191 sec
+server 193.171.23.164, stratum 1, offset -5.938071, delay 0.05385
+15 Jun 18:43:13 ntpdate[28047]: step time server 193.171.23.164 offset -5.938071 sec
+server 193.171.23.164, stratum 1, offset -5.948572, delay 0.06128
+15 Jun 18:43:24 ntpdate[28052]: step time server 193.171.23.164 offset -5.948572 sec
+server 193.171.23.164, stratum 1, offset -5.942569, delay 0.04779
+15 Jun 18:43:34 ntpdate[28059]: step time server 193.171.23.164 offset -5.942569 sec
+server 193.171.23.164, stratum 1, offset -5.954586, delay 0.05705
+15 Jun 18:43:44 ntpdate[28065]: step time server 193.171.23.164 offset -5.954586 sec
+server 193.171.23.164, stratum 1, offset -5.960959, delay 0.05862
+15 Jun 18:43:54 ntpdate[28070]: step time server 193.171.23.164 offset -5.960959 sec
+server 193.171.23.164, stratum 1, offset -5.953227, delay 0.04776
+15 Jun 18:44:04 ntpdate[28075]: step time server 193.171.23.164 offset -5.953227 sec
+server 193.171.23.164, stratum 1, offset -5.965543, delay 0.05432
+15 Jun 18:44:14 ntpdate[28081]: step time server 193.171.23.164 offset -5.965543 sec
+server 193.171.23.164, stratum 1, offset -5.971965, delay 0.05408
+15 Jun 18:44:24 ntpdate[28086]: step time server 193.171.23.164 offset -5.971965 sec
+server 193.171.23.164, stratum 1, offset -5.978496, delay 0.05206
+15 Jun 18:44:35 ntpdate[28092]: step time server 193.171.23.164 offset -5.978496 sec
+server 193.171.23.164, stratum 1, offset -5.980408, delay 0.05699
+15 Jun 18:44:45 ntpdate[28098]: step time server 193.171.23.164 offset -5.980408 sec
+server 193.171.23.164, stratum 1, offset -5.988797, delay 0.05261
+15 Jun 18:44:55 ntpdate[28103]: step time server 193.171.23.164 offset -5.988797 sec
+server 193.171.23.164, stratum 1, offset -5.984158, delay 0.05624
+15 Jun 18:45:05 ntpdate[28108]: step time server 193.171.23.164 offset -5.984158 sec
+server 193.171.23.164, stratum 1, offset -5.993258, delay 0.05397
+15 Jun 18:45:15 ntpdate[28115]: step time server 193.171.23.164 offset -5.993258 sec
+server 193.171.23.164, stratum 1, offset -6.006015, delay 0.05490
+15 Jun 18:45:25 ntpdate[28120]: step time server 193.171.23.164 offset -6.006015 sec
+server 193.171.23.164, stratum 1, offset -6.010972, delay 0.05235
+15 Jun 18:45:35 ntpdate[28132]: step time server 193.171.23.164 offset -6.010972 sec
+server 193.171.23.164, stratum 1, offset -6.015526, delay 0.04926
+15 Jun 18:45:46 ntpdate[28138]: step time server 193.171.23.164 offset -6.015526 sec
+server 193.171.23.164, stratum 1, offset -6.020251, delay 0.05457
+15 Jun 18:45:56 ntpdate[28143]: step time server 193.171.23.164 offset -6.020251 sec
+server 193.171.23.164, stratum 1, offset -6.028023, delay 0.05423
+15 Jun 18:46:06 ntpdate[28148]: step time server 193.171.23.164 offset -6.028023 sec
+server 193.171.23.164, stratum 1, offset -6.030080, delay 0.05830
+15 Jun 18:46:16 ntpdate[28154]: step time server 193.171.23.164 offset -6.030080 sec
+server 193.171.23.164, stratum 1, offset -6.035567, delay 0.05046
+15 Jun 18:46:26 ntpdate[28160]: step time server 193.171.23.164 offset -6.035567 sec
+server 193.171.23.164, stratum 1, offset -6.043868, delay 0.05414
+15 Jun 18:46:36 ntpdate[28166]: step time server 193.171.23.164 offset -6.043868 sec
+server 193.171.23.164, stratum 1, offset -6.050844, delay 0.05821
+15 Jun 18:46:46 ntpdate[28173]: step time server 193.171.23.164 offset -6.050844 sec
+server 193.171.23.164, stratum 1, offset -6.050339, delay 0.05180
+15 Jun 18:46:57 ntpdate[28181]: step time server 193.171.23.164 offset -6.050339 sec
+server 193.171.23.164, stratum 1, offset -6.053039, delay 0.05435
+15 Jun 18:47:07 ntpdate[28187]: step time server 193.171.23.164 offset -6.053039 sec
+server 193.171.23.164, stratum 1, offset -6.099695, delay 0.15549
+15 Jun 18:47:17 ntpdate[28193]: step time server 193.171.23.164 offset -6.099695 sec
+server 193.171.23.164, stratum 1, offset -6.061028, delay 0.05304
+15 Jun 18:47:27 ntpdate[28199]: step time server 193.171.23.164 offset -6.061028 sec
+server 193.171.23.164, stratum 1, offset -6.107444, delay 0.12831
+15 Jun 18:47:37 ntpdate[28205]: step time server 193.171.23.164 offset -6.107444 sec
+server 193.171.23.164, stratum 1, offset -6.114575, delay 0.12820
+15 Jun 18:47:48 ntpdate[28211]: step time server 193.171.23.164 offset -6.114575 sec
+server 193.171.23.164, stratum 1, offset -6.080948, delay 0.05231
+15 Jun 18:47:58 ntpdate[28216]: step time server 193.171.23.164 offset -6.080948 sec
+server 193.171.23.164, stratum 1, offset -6.090049, delay 0.05544
+15 Jun 18:48:08 ntpdate[28222]: step time server 193.171.23.164 offset -6.090049 sec
+server 193.171.23.164, stratum 1, offset -6.096088, delay 0.05449
+15 Jun 18:48:18 ntpdate[28227]: step time server 193.171.23.164 offset -6.096088 sec
+server 193.171.23.164, stratum 1, offset -6.098314, delay 0.05466
+15 Jun 18:48:28 ntpdate[28233]: step time server 193.171.23.164 offset -6.098314 sec
+server 193.171.23.164, stratum 1, offset -6.100506, delay 0.05318
+15 Jun 18:48:38 ntpdate[28238]: step time server 193.171.23.164 offset -6.100506 sec
+server 193.171.23.164, stratum 1, offset -6.105580, delay 0.05460
+15 Jun 18:48:48 ntpdate[28245]: step time server 193.171.23.164 offset -6.105580 sec
+server 193.171.23.164, stratum 1, offset -6.117857, delay 0.05408
+15 Jun 18:48:59 ntpdate[28250]: step time server 193.171.23.164 offset -6.117857 sec
+server 193.171.23.164, stratum 1, offset -6.120406, delay 0.05408
+15 Jun 18:49:09 ntpdate[28256]: step time server 193.171.23.164 offset -6.120406 sec
+server 193.171.23.164, stratum 1, offset -6.127252, delay 0.05424
+15 Jun 18:49:19 ntpdate[28261]: step time server 193.171.23.164 offset -6.127252 sec
+server 193.171.23.164, stratum 1, offset -6.127432, delay 0.05409
+15 Jun 18:49:29 ntpdate[28268]: step time server 193.171.23.164 offset -6.127432 sec
+server 193.171.23.164, stratum 1, offset -6.132619, delay 0.05574
+15 Jun 18:49:39 ntpdate[28274]: step time server 193.171.23.164 offset -6.132619 sec
+server 193.171.23.164, stratum 1, offset -6.144173, delay 0.05231
+15 Jun 18:49:49 ntpdate[28279]: step time server 193.171.23.164 offset -6.144173 sec
+server 193.171.23.164, stratum 1, offset -6.148294, delay 0.05762
+15 Jun 18:49:59 ntpdate[28284]: step time server 193.171.23.164 offset -6.148294 sec
+server 193.171.23.164, stratum 1, offset -6.151657, delay 0.05350
+15 Jun 18:50:10 ntpdate[28291]: step time server 193.171.23.164 offset -6.151657 sec
+server 193.171.23.164, stratum 1, offset -6.159182, delay 0.05391
+15 Jun 18:50:20 ntpdate[28296]: step time server 193.171.23.164 offset -6.159182 sec
+server 193.171.23.164, stratum 1, offset -6.165001, delay 0.05489
+15 Jun 18:50:30 ntpdate[28302]: step time server 193.171.23.164 offset -6.165001 sec
+server 193.171.23.164, stratum 1, offset -6.167030, delay 0.05258
+15 Jun 18:50:40 ntpdate[28309]: step time server 193.171.23.164 offset -6.167030 sec
+server 193.171.23.164, stratum 1, offset -6.173741, delay 0.05452
+15 Jun 18:50:50 ntpdate[28317]: step time server 193.171.23.164 offset -6.173741 sec
+server 193.171.23.164, stratum 1, offset -6.172899, delay 0.05403
+15 Jun 18:51:00 ntpdate[28324]: step time server 193.171.23.164 offset -6.172899 sec
+server 193.171.23.164, stratum 1, offset -6.183949, delay 0.05434
+15 Jun 18:51:10 ntpdate[28332]: step time server 193.171.23.164 offset -6.183949 sec
+server 193.171.23.164, stratum 1, offset -6.187163, delay 0.05536
+15 Jun 18:51:21 ntpdate[28337]: step time server 193.171.23.164 offset -6.187163 sec
+server 193.171.23.164, stratum 1, offset -6.197032, delay 0.05428
+15 Jun 18:51:31 ntpdate[28343]: step time server 193.171.23.164 offset -6.197032 sec
+server 193.171.23.164, stratum 1, offset -6.194209, delay 0.05173
+15 Jun 18:51:41 ntpdate[28349]: step time server 193.171.23.164 offset -6.194209 sec
+server 193.171.23.164, stratum 1, offset -6.207236, delay 0.05428
+15 Jun 18:51:51 ntpdate[28355]: step time server 193.171.23.164 offset -6.207236 sec
+server 193.171.23.164, stratum 1, offset -6.209412, delay 0.05394
+15 Jun 18:52:01 ntpdate[28361]: step time server 193.171.23.164 offset -6.209412 sec
+server 193.171.23.164, stratum 1, offset -6.248178, delay 0.15909
+15 Jun 18:52:11 ntpdate[28367]: step time server 193.171.23.164 offset -6.248178 sec
+server 193.171.23.164, stratum 1, offset -6.220574, delay 0.05086
+15 Jun 18:52:22 ntpdate[28372]: step time server 193.171.23.164 offset -6.220574 sec
+server 193.171.23.164, stratum 1, offset -6.225547, delay 0.05479
+15 Jun 18:52:32 ntpdate[28378]: step time server 193.171.23.164 offset -6.225547 sec
+server 193.171.23.164, stratum 1, offset -6.232085, delay 0.05484
+15 Jun 18:52:42 ntpdate[28384]: step time server 193.171.23.164 offset -6.232085 sec
+server 193.171.23.164, stratum 1, offset -6.230873, delay 0.05350
+15 Jun 18:52:52 ntpdate[28390]: step time server 193.171.23.164 offset -6.230873 sec
+server 193.171.23.164, stratum 1, offset -6.241521, delay 0.05382
+15 Jun 18:53:02 ntpdate[28395]: step time server 193.171.23.164 offset -6.241521 sec
+server 193.171.23.164, stratum 1, offset -6.243203, delay 0.05392
+15 Jun 18:53:12 ntpdate[28401]: step time server 193.171.23.164 offset -6.243203 sec
+server 193.171.23.164, stratum 1, offset -6.252187, delay 0.05516
+15 Jun 18:53:22 ntpdate[28406]: step time server 193.171.23.164 offset -6.252187 sec
+server 193.171.23.164, stratum 1, offset -6.259650, delay 0.05821
+15 Jun 18:53:33 ntpdate[28413]: step time server 193.171.23.164 offset -6.259650 sec
+server 193.171.23.164, stratum 1, offset -6.259290, delay 0.05011
+15 Jun 18:53:43 ntpdate[28418]: step time server 193.171.23.164 offset -6.259290 sec
+server 193.171.23.164, stratum 1, offset -6.263825, delay 0.05362
+15 Jun 18:53:53 ntpdate[28424]: step time server 193.171.23.164 offset -6.263825 sec
+server 193.171.23.164, stratum 1, offset -6.275686, delay 0.05809
+15 Jun 18:54:03 ntpdate[28429]: step time server 193.171.23.164 offset -6.275686 sec
+server 193.171.23.164, stratum 1, offset -6.274309, delay 0.05025
+15 Jun 18:54:13 ntpdate[28441]: step time server 193.171.23.164 offset -6.274309 sec
+server 193.171.23.164, stratum 1, offset -6.279129, delay 0.05428
+15 Jun 18:54:23 ntpdate[28446]: step time server 193.171.23.164 offset -6.279129 sec
+server 193.171.23.164, stratum 1, offset -6.288952, delay 0.05475
+15 Jun 18:54:33 ntpdate[28452]: step time server 193.171.23.164 offset -6.288952 sec
+server 193.171.23.164, stratum 1, offset -6.297075, delay 0.05852
+15 Jun 18:54:44 ntpdate[28459]: step time server 193.171.23.164 offset -6.297075 sec
+server 193.171.23.164, stratum 1, offset -6.298359, delay 0.05417
+15 Jun 18:54:54 ntpdate[28466]: step time server 193.171.23.164 offset -6.298359 sec
+server 193.171.23.164, stratum 1, offset -6.302998, delay 0.05150
+15 Jun 18:55:04 ntpdate[28471]: step time server 193.171.23.164 offset -6.302998 sec
+server 193.171.23.164, stratum 1, offset -6.308004, delay 0.05144
+15 Jun 18:55:14 ntpdate[28477]: step time server 193.171.23.164 offset -6.308004 sec
+server 193.171.23.164, stratum 1, offset -6.315929, delay 0.05457
+15 Jun 18:55:24 ntpdate[28482]: step time server 193.171.23.164 offset -6.315929 sec
+server 193.171.23.164, stratum 1, offset -6.320305, delay 0.05305
+15 Jun 18:55:34 ntpdate[28489]: step time server 193.171.23.164 offset -6.320305 sec
+server 193.171.23.164, stratum 1, offset -6.326074, delay 0.05464
+15 Jun 18:55:44 ntpdate[28494]: step time server 193.171.23.164 offset -6.326074 sec
+server 193.171.23.164, stratum 1, offset -6.332845, delay 0.05446
+15 Jun 18:55:55 ntpdate[28499]: step time server 193.171.23.164 offset -6.332845 sec
+server 193.171.23.164, stratum 1, offset -6.336534, delay 0.05457
+15 Jun 18:56:05 ntpdate[28504]: step time server 193.171.23.164 offset -6.336534 sec
+server 193.171.23.164, stratum 1, offset -6.340407, delay 0.05453
+15 Jun 18:56:15 ntpdate[28510]: step time server 193.171.23.164 offset -6.340407 sec
+server 193.171.23.164, stratum 1, offset -6.344547, delay 0.05452
+15 Jun 18:56:25 ntpdate[28517]: step time server 193.171.23.164 offset -6.344547 sec
+server 193.171.23.164, stratum 1, offset -6.352842, delay 0.05444
+15 Jun 18:56:35 ntpdate[28523]: step time server 193.171.23.164 offset -6.352842 sec
+server 193.171.23.164, stratum 1, offset -6.353413, delay 0.05421
+15 Jun 18:56:45 ntpdate[28529]: step time server 193.171.23.164 offset -6.353413 sec
+server 193.171.23.164, stratum 1, offset -6.358341, delay 0.05502
+15 Jun 18:56:55 ntpdate[28536]: step time server 193.171.23.164 offset -6.358341 sec
+server 193.171.23.164, stratum 1, offset -6.364135, delay 0.05484
+15 Jun 18:57:06 ntpdate[28542]: step time server 193.171.23.164 offset -6.364135 sec
+server 193.171.23.164, stratum 1, offset -6.365421, delay 0.05409
+15 Jun 18:57:16 ntpdate[28548]: step time server 193.171.23.164 offset -6.365421 sec
+server 193.171.23.164, stratum 1, offset -6.374810, delay 0.05460
+15 Jun 18:57:26 ntpdate[28553]: step time server 193.171.23.164 offset -6.374810 sec
+server 193.171.23.164, stratum 1, offset -6.385285, delay 0.05467
+15 Jun 18:57:36 ntpdate[28560]: step time server 193.171.23.164 offset -6.385285 sec
+server 193.171.23.164, stratum 1, offset -6.417680, delay 0.12973
+15 Jun 18:57:46 ntpdate[28566]: step time server 193.171.23.164 offset -6.417680 sec
+server 193.171.23.164, stratum 1, offset -6.394622, delay 0.05441
+15 Jun 18:57:56 ntpdate[28573]: step time server 193.171.23.164 offset -6.394622 sec
+server 193.171.23.164, stratum 1, offset -6.398834, delay 0.05406
+15 Jun 18:58:07 ntpdate[28578]: step time server 193.171.23.164 offset -6.398834 sec
+server 193.171.23.164, stratum 1, offset -6.402238, delay 0.05452
+15 Jun 18:58:17 ntpdate[28584]: step time server 193.171.23.164 offset -6.402238 sec
+server 193.171.23.164, stratum 1, offset -6.409178, delay 0.05389
+15 Jun 18:58:27 ntpdate[28589]: step time server 193.171.23.164 offset -6.409178 sec
+server 193.171.23.164, stratum 1, offset -6.412778, delay 0.05373
+15 Jun 18:58:37 ntpdate[28595]: step time server 193.171.23.164 offset -6.412778 sec
+server 193.171.23.164, stratum 1, offset -6.418990, delay 0.05426
+15 Jun 18:58:47 ntpdate[28602]: step time server 193.171.23.164 offset -6.418990 sec
+server 193.171.23.164, stratum 1, offset -6.425429, delay 0.05450
+15 Jun 18:58:57 ntpdate[28607]: step time server 193.171.23.164 offset -6.425429 sec
+server 193.171.23.164, stratum 1, offset -6.433139, delay 0.05396
+15 Jun 18:59:07 ntpdate[28612]: step time server 193.171.23.164 offset -6.433139 sec
+server 193.171.23.164, stratum 1, offset -6.427696, delay 0.05396
+15 Jun 18:59:18 ntpdate[28620]: step time server 193.171.23.164 offset -6.427696 sec
+server 193.171.23.164, stratum 1, offset -6.440281, delay 0.05460
+15 Jun 18:59:28 ntpdate[28626]: step time server 193.171.23.164 offset -6.440281 sec
+server 193.171.23.164, stratum 1, offset -6.446886, delay 0.05386
+15 Jun 18:59:38 ntpdate[28631]: step time server 193.171.23.164 offset -6.446886 sec
+server 193.171.23.164, stratum 1, offset -6.438360, delay 0.05237
+15 Jun 18:59:48 ntpdate[28637]: step time server 193.171.23.164 offset -6.438360 sec
+server 193.171.23.164, stratum 1, offset -6.460050, delay 0.05466
+15 Jun 18:59:58 ntpdate[28643]: step time server 193.171.23.164 offset -6.460050 sec
+server 193.171.23.164, stratum 1, offset -6.463183, delay 0.05449
+15 Jun 19:00:08 ntpdate[28649]: step time server 193.171.23.164 offset -6.463183 sec
+server 193.171.23.164, stratum 1, offset -6.465664, delay 0.05446
+15 Jun 19:00:18 ntpdate[28656]: step time server 193.171.23.164 offset -6.465664 sec
+server 193.171.23.164, stratum 1, offset -6.472823, delay 0.05463
+15 Jun 19:00:29 ntpdate[28662]: step time server 193.171.23.164 offset -6.472823 sec
+server 193.171.23.164, stratum 1, offset -6.477387, delay 0.05484
+15 Jun 19:00:39 ntpdate[28668]: step time server 193.171.23.164 offset -6.477387 sec
+server 193.171.23.164, stratum 1, offset -6.480081, delay 0.05637
+15 Jun 19:00:49 ntpdate[28676]: step time server 193.171.23.164 offset -6.480081 sec
+server 193.171.23.164, stratum 1, offset -6.487448, delay 0.05286
+15 Jun 19:00:59 ntpdate[28681]: step time server 193.171.23.164 offset -6.487448 sec
+server 193.171.23.164, stratum 1, offset -6.492641, delay 0.05472
+15 Jun 19:01:09 ntpdate[28687]: step time server 193.171.23.164 offset -6.492641 sec
+server 193.171.23.164, stratum 1, offset -6.497266, delay 0.05609
+15 Jun 19:01:19 ntpdate[28692]: step time server 193.171.23.164 offset -6.497266 sec
+server 193.171.23.164, stratum 1, offset -6.505734, delay 0.05452
+15 Jun 19:01:29 ntpdate[28698]: step time server 193.171.23.164 offset -6.505734 sec
+server 193.171.23.164, stratum 1, offset -6.509672, delay 0.05424
+15 Jun 19:01:40 ntpdate[28705]: step time server 193.171.23.164 offset -6.509672 sec
+server 193.171.23.164, stratum 1, offset -6.514762, delay 0.05405
+15 Jun 19:01:50 ntpdate[28711]: step time server 193.171.23.164 offset -6.514762 sec
+server 193.171.23.164, stratum 1, offset -6.519152, delay 0.05228
+15 Jun 19:02:00 ntpdate[28716]: step time server 193.171.23.164 offset -6.519152 sec
+server 193.171.23.164, stratum 1, offset -6.525196, delay 0.05408
+15 Jun 19:02:10 ntpdate[28723]: step time server 193.171.23.164 offset -6.525196 sec
+server 193.171.23.164, stratum 1, offset -6.529453, delay 0.05411
+15 Jun 19:02:20 ntpdate[28728]: step time server 193.171.23.164 offset -6.529453 sec
+server 193.171.23.164, stratum 1, offset -6.530365, delay 0.05429
+15 Jun 19:02:30 ntpdate[28734]: step time server 193.171.23.164 offset -6.530365 sec
+server 193.171.23.164, stratum 1, offset -6.540595, delay 0.05452
+15 Jun 19:02:40 ntpdate[28740]: step time server 193.171.23.164 offset -6.540595 sec
+server 193.171.23.164, stratum 1, offset -6.541536, delay 0.05573
+15 Jun 19:02:51 ntpdate[28746]: step time server 193.171.23.164 offset -6.541536 sec
+server 193.171.23.164, stratum 1, offset -6.553534, delay 0.05592
+15 Jun 19:03:01 ntpdate[28751]: step time server 193.171.23.164 offset -6.553534 sec
+server 193.171.23.164, stratum 1, offset -6.546886, delay 0.05132
+15 Jun 19:03:11 ntpdate[28759]: step time server 193.171.23.164 offset -6.546886 sec
+server 193.171.23.164, stratum 1, offset -6.562307, delay 0.05600
+15 Jun 19:03:21 ntpdate[28764]: step time server 193.171.23.164 offset -6.562307 sec
+server 193.171.23.164, stratum 1, offset -6.567260, delay 0.05496
+15 Jun 19:03:31 ntpdate[28771]: step time server 193.171.23.164 offset -6.567260 sec
+server 193.171.23.164, stratum 1, offset -6.572791, delay 0.05257
+15 Jun 19:03:41 ntpdate[28779]: step time server 193.171.23.164 offset -6.572791 sec
+server 193.171.23.164, stratum 1, offset -6.568151, delay 0.05550
+15 Jun 19:03:51 ntpdate[28785]: step time server 193.171.23.164 offset -6.568151 sec
+server 193.171.23.164, stratum 1, offset -6.577419, delay 0.05243
+15 Jun 19:04:02 ntpdate[28790]: step time server 193.171.23.164 offset -6.577419 sec
+server 193.171.23.164, stratum 1, offset -6.575314, delay 0.05299
+15 Jun 19:04:12 ntpdate[28796]: step time server 193.171.23.164 offset -6.575314 sec
+server 193.171.23.164, stratum 1, offset -6.593028, delay 0.05164
+15 Jun 19:04:22 ntpdate[28801]: step time server 193.171.23.164 offset -6.593028 sec
+server 193.171.23.164, stratum 1, offset -6.598846, delay 0.05214
+15 Jun 19:04:32 ntpdate[28807]: step time server 193.171.23.164 offset -6.598846 sec
+server 193.171.23.164, stratum 1, offset -6.603471, delay 0.05345
+15 Jun 19:04:42 ntpdate[28813]: step time server 193.171.23.164 offset -6.603471 sec
+server 193.171.23.164, stratum 1, offset -6.607694, delay 0.05646
+15 Jun 19:04:52 ntpdate[28819]: step time server 193.171.23.164 offset -6.607694 sec
+server 193.171.23.164, stratum 1, offset -6.610185, delay 0.05751
+15 Jun 19:05:02 ntpdate[28824]: step time server 193.171.23.164 offset -6.610185 sec
+server 193.171.23.164, stratum 1, offset -6.618574, delay 0.05130
+15 Jun 19:05:13 ntpdate[28830]: step time server 193.171.23.164 offset -6.618574 sec
+server 193.171.23.164, stratum 1, offset -6.617673, delay 0.05232
+15 Jun 19:05:23 ntpdate[28835]: step time server 193.171.23.164 offset -6.617673 sec
+server 193.171.23.164, stratum 1, offset -6.627339, delay 0.05499
+15 Jun 19:05:33 ntpdate[28842]: step time server 193.171.23.164 offset -6.627339 sec
+server 193.171.23.164, stratum 1, offset -6.631934, delay 0.05420
+15 Jun 19:05:43 ntpdate[28847]: step time server 193.171.23.164 offset -6.631934 sec
+server 193.171.23.164, stratum 1, offset -6.636372, delay 0.05472
+15 Jun 19:05:53 ntpdate[28855]: step time server 193.171.23.164 offset -6.636372 sec
+server 193.171.23.164, stratum 1, offset -6.646660, delay 0.05431
+15 Jun 19:06:03 ntpdate[28860]: step time server 193.171.23.164 offset -6.646660 sec
+server 193.171.23.164, stratum 1, offset -6.653229, delay 0.05467
+15 Jun 19:06:13 ntpdate[28866]: step time server 193.171.23.164 offset -6.653229 sec
+server 193.171.23.164, stratum 1, offset -6.656560, delay 0.05426
+15 Jun 19:06:24 ntpdate[28872]: step time server 193.171.23.164 offset -6.656560 sec
+server 193.171.23.164, stratum 1, offset -6.656708, delay 0.05431
+15 Jun 19:06:34 ntpdate[28878]: step time server 193.171.23.164 offset -6.656708 sec
+server 193.171.23.164, stratum 1, offset -6.664048, delay 0.05327
+15 Jun 19:06:44 ntpdate[28884]: step time server 193.171.23.164 offset -6.664048 sec
+server 193.171.23.164, stratum 1, offset -6.665854, delay 0.05379
+15 Jun 19:06:54 ntpdate[28889]: step time server 193.171.23.164 offset -6.665854 sec
+server 193.171.23.164, stratum 1, offset -6.670774, delay 0.05453
+15 Jun 19:07:04 ntpdate[28896]: step time server 193.171.23.164 offset -6.670774 sec
+server 193.171.23.164, stratum 1, offset -6.680002, delay 0.05429
+15 Jun 19:07:14 ntpdate[28903]: step time server 193.171.23.164 offset -6.680002 sec
+server 193.171.23.164, stratum 1, offset -6.724326, delay 0.15680
+15 Jun 19:07:24 ntpdate[28908]: step time server 193.171.23.164 offset -6.724326 sec
+server 193.171.23.164, stratum 1, offset -6.728901, delay 0.12993
+15 Jun 19:07:35 ntpdate[28915]: step time server 193.171.23.164 offset -6.728901 sec
+server 193.171.23.164, stratum 1, offset -6.730820, delay 0.12979
+15 Jun 19:07:45 ntpdate[28921]: step time server 193.171.23.164 offset -6.730820 sec
+server 193.171.23.164, stratum 1, offset -6.704124, delay 0.05589
+15 Jun 19:07:55 ntpdate[28926]: step time server 193.171.23.164 offset -6.704124 sec
+server 193.171.23.164, stratum 1, offset -6.702934, delay 0.05275
+15 Jun 19:08:05 ntpdate[28931]: step time server 193.171.23.164 offset -6.702934 sec
+server 193.171.23.164, stratum 1, offset -6.709589, delay 0.05539
+15 Jun 19:08:15 ntpdate[28937]: step time server 193.171.23.164 offset -6.709589 sec
+server 193.171.23.164, stratum 1, offset -6.717836, delay 0.05469
+15 Jun 19:08:26 ntpdate[28942]: step time server 193.171.23.164 offset -6.717836 sec
+server 193.171.23.164, stratum 1, offset -6.718405, delay 0.05222
+15 Jun 19:08:36 ntpdate[28948]: step time server 193.171.23.164 offset -6.718405 sec
+server 193.171.23.164, stratum 1, offset -6.732502, delay 0.05672
+15 Jun 19:08:46 ntpdate[28955]: step time server 193.171.23.164 offset -6.732502 sec
+server 193.171.23.164, stratum 1, offset -6.729944, delay 0.05411
+15 Jun 19:08:56 ntpdate[28960]: step time server 193.171.23.164 offset -6.729944 sec
+server 193.171.23.164, stratum 1, offset -6.733557, delay 0.05453
+15 Jun 19:09:06 ntpdate[28965]: step time server 193.171.23.164 offset -6.733557 sec
+server 193.171.23.164, stratum 1, offset -6.743480, delay 0.05301
+15 Jun 19:09:16 ntpdate[28971]: step time server 193.171.23.164 offset -6.743480 sec
+server 193.171.23.164, stratum 1, offset -6.749488, delay 0.05180
+15 Jun 19:09:26 ntpdate[28976]: step time server 193.171.23.164 offset -6.749488 sec
+server 193.171.23.164, stratum 1, offset -6.750995, delay 0.05417
+15 Jun 19:09:37 ntpdate[28982]: step time server 193.171.23.164 offset -6.750995 sec
+server 193.171.23.164, stratum 1, offset -6.761451, delay 0.05389
+15 Jun 19:09:47 ntpdate[28988]: step time server 193.171.23.164 offset -6.761451 sec
+server 193.171.23.164, stratum 1, offset -6.756459, delay 0.05391
+15 Jun 19:09:57 ntpdate[28993]: step time server 193.171.23.164 offset -6.756459 sec
+server 193.171.23.164, stratum 1, offset -6.771902, delay 0.05620
+15 Jun 19:10:07 ntpdate[28999]: step time server 193.171.23.164 offset -6.771902 sec
+server 193.171.23.164, stratum 1, offset -6.776698, delay 0.05496
+15 Jun 19:10:17 ntpdate[29005]: step time server 193.171.23.164 offset -6.776698 sec
+server 193.171.23.164, stratum 1, offset -6.775712, delay 0.05417
+15 Jun 19:10:27 ntpdate[29011]: step time server 193.171.23.164 offset -6.775712 sec
+server 193.171.23.164, stratum 1, offset -6.783150, delay 0.05168
+15 Jun 19:10:37 ntpdate[29017]: step time server 193.171.23.164 offset -6.783150 sec
+server 193.171.23.164, stratum 1, offset -6.793176, delay 0.05423
+15 Jun 19:10:48 ntpdate[29024]: step time server 193.171.23.164 offset -6.793176 sec
+server 193.171.23.164, stratum 1, offset -6.796604, delay 0.05600
+15 Jun 19:10:58 ntpdate[29029]: step time server 193.171.23.164 offset -6.796604 sec
+server 193.171.23.164, stratum 1, offset -6.799457, delay 0.05180
+15 Jun 19:11:08 ntpdate[29034]: step time server 193.171.23.164 offset -6.799457 sec
+server 193.171.23.164, stratum 1, offset -6.804124, delay 0.05418
+15 Jun 19:11:18 ntpdate[29042]: step time server 193.171.23.164 offset -6.804124 sec
+server 193.171.23.164, stratum 1, offset -6.813327, delay 0.05432
+15 Jun 19:11:28 ntpdate[29049]: step time server 193.171.23.164 offset -6.813327 sec
+server 193.171.23.164, stratum 1, offset -6.813570, delay 0.05371
+15 Jun 19:11:38 ntpdate[29054]: step time server 193.171.23.164 offset -6.813570 sec
+server 193.171.23.164, stratum 1, offset -6.817440, delay 0.05437
+15 Jun 19:11:48 ntpdate[29059]: step time server 193.171.23.164 offset -6.817440 sec
+server 193.171.23.164, stratum 1, offset -6.828952, delay 0.05453
+15 Jun 19:11:59 ntpdate[29065]: step time server 193.171.23.164 offset -6.828952 sec
+server 193.171.23.164, stratum 1, offset -6.834473, delay 0.05476
+15 Jun 19:12:09 ntpdate[29071]: step time server 193.171.23.164 offset -6.834473 sec
+server 193.171.23.164, stratum 1, offset -6.841864, delay 0.05624
+15 Jun 19:12:19 ntpdate[29078]: step time server 193.171.23.164 offset -6.841864 sec
+server 193.171.23.164, stratum 1, offset -6.844377, delay 0.05435
+15 Jun 19:12:29 ntpdate[29084]: step time server 193.171.23.164 offset -6.844377 sec
+server 193.171.23.164, stratum 1, offset -6.849873, delay 0.05341
+15 Jun 19:12:39 ntpdate[29090]: step time server 193.171.23.164 offset -6.849873 sec
+server 193.171.23.164, stratum 1, offset -6.849748, delay 0.05423
+15 Jun 19:12:49 ntpdate[29096]: step time server 193.171.23.164 offset -6.849748 sec
+server 193.171.23.164, stratum 1, offset -6.851702, delay 0.04257
+15 Jun 19:12:59 ntpdate[29101]: step time server 193.171.23.164 offset -6.851702 sec
+server 193.171.23.164, stratum 1, offset -6.872152, delay 0.06801
+15 Jun 19:13:10 ntpdate[29107]: step time server 193.171.23.164 offset -6.872152 sec
+server 193.171.23.164, stratum 1, offset -6.871243, delay 0.05447
+15 Jun 19:13:20 ntpdate[29113]: step time server 193.171.23.164 offset -6.871243 sec
+server 193.171.23.164, stratum 1, offset -6.874234, delay 0.05141
+15 Jun 19:13:30 ntpdate[29120]: step time server 193.171.23.164 offset -6.874234 sec
+server 193.171.23.164, stratum 1, offset -6.877934, delay 0.05513
+15 Jun 19:13:40 ntpdate[29127]: step time server 193.171.23.164 offset -6.877934 sec
+server 193.171.23.164, stratum 1, offset -6.888112, delay 0.05563
+15 Jun 19:13:50 ntpdate[29133]: step time server 193.171.23.164 offset -6.888112 sec
+server 193.171.23.164, stratum 1, offset -6.918727, delay 0.15543
+15 Jun 19:14:00 ntpdate[29138]: step time server 193.171.23.164 offset -6.918727 sec
+server 193.171.23.164, stratum 1, offset -6.898929, delay 0.05473
+15 Jun 19:14:11 ntpdate[29144]: step time server 193.171.23.164 offset -6.898929 sec
+server 193.171.23.164, stratum 1, offset -6.898097, delay 0.05299
+15 Jun 19:14:21 ntpdate[29149]: step time server 193.171.23.164 offset -6.898097 sec
+server 193.171.23.164, stratum 1, offset -6.904208, delay 0.05193
+15 Jun 19:14:31 ntpdate[29155]: step time server 193.171.23.164 offset -6.904208 sec
+server 193.171.23.164, stratum 1, offset -6.910540, delay 0.05544
+15 Jun 19:14:41 ntpdate[29161]: step time server 193.171.23.164 offset -6.910540 sec
+server 193.171.23.164, stratum 1, offset -6.918076, delay 0.05400
+15 Jun 19:14:51 ntpdate[29167]: step time server 193.171.23.164 offset -6.918076 sec
+server 193.171.23.164, stratum 1, offset -6.920820, delay 0.05435
+15 Jun 19:15:01 ntpdate[29172]: step time server 193.171.23.164 offset -6.920820 sec
+server 193.171.23.164, stratum 1, offset -6.926326, delay 0.05428
+15 Jun 19:15:11 ntpdate[29178]: step time server 193.171.23.164 offset -6.926326 sec
+server 193.171.23.164, stratum 1, offset -6.932270, delay 0.05443
+15 Jun 19:15:22 ntpdate[29183]: step time server 193.171.23.164 offset -6.932270 sec
+server 193.171.23.164, stratum 1, offset -7.002846, delay 0.51271
+15 Jun 19:15:32 ntpdate[29189]: step time server 193.171.23.164 offset -7.002846 sec
+server 193.171.23.164, stratum 1, offset -6.953204, delay 0.07779
+15 Jun 19:15:42 ntpdate[29218]: step time server 193.171.23.164 offset -6.953204 sec
+server 193.171.23.164, stratum 1, offset -6.949027, delay 0.05197
+15 Jun 19:15:52 ntpdate[29296]: step time server 193.171.23.164 offset -6.949027 sec
+server 193.171.23.164, stratum 1, offset -6.972862, delay 0.08611
+15 Jun 19:16:03 ntpdate[29306]: step time server 193.171.23.164 offset -6.972862 sec
+server 193.171.23.164, stratum 1, offset -6.958971, delay 0.05150
+15 Jun 19:16:13 ntpdate[29339]: step time server 193.171.23.164 offset -6.958971 sec
+server 193.171.23.164, stratum 1, offset -6.779466, delay 0.83916
+15 Jun 19:16:24 ntpdate[29355]: step time server 193.171.23.164 offset -6.779466 sec
+server 193.171.23.164, stratum 1, offset -6.968918, delay 0.05096
+15 Jun 19:16:34 ntpdate[29367]: step time server 193.171.23.164 offset -6.968918 sec
+server 193.171.23.164, stratum 1, offset -6.967895, delay 0.04730
+15 Jun 19:16:44 ntpdate[29382]: step time server 193.171.23.164 offset -6.967895 sec
+server 193.171.23.164, stratum 1, offset -6.996391, delay 0.08145
+15 Jun 19:16:54 ntpdate[29396]: step time server 193.171.23.164 offset -6.996391 sec
+server 193.171.23.164, stratum 1, offset -6.993091, delay 0.06909
+15 Jun 19:17:04 ntpdate[29446]: step time server 193.171.23.164 offset -6.993091 sec
+server 193.171.23.164, stratum 1, offset -6.990165, delay 0.05115
+15 Jun 19:17:14 ntpdate[29466]: step time server 193.171.23.164 offset -6.990165 sec
+server 193.171.23.164, stratum 1, offset -6.992544, delay 0.04134
+15 Jun 19:17:25 ntpdate[29489]: step time server 193.171.23.164 offset -6.992544 sec
+server 193.171.23.164, stratum 1, offset -7.004479, delay 0.06149
+15 Jun 19:17:35 ntpdate[29565]: step time server 193.171.23.164 offset -7.004479 sec
+server 193.171.23.164, stratum 1, offset -7.001298, delay 0.04802
+15 Jun 19:17:45 ntpdate[29597]: step time server 193.171.23.164 offset -7.001298 sec
+server 193.171.23.164, stratum 1, offset -7.009999, delay 0.05406
+15 Jun 19:17:55 ntpdate[29630]: step time server 193.171.23.164 offset -7.009999 sec
+server 193.171.23.164, stratum 1, offset -7.017880, delay 0.05428
+15 Jun 19:18:05 ntpdate[29662]: step time server 193.171.23.164 offset -7.017880 sec
+server 193.171.23.164, stratum 1, offset -7.023431, delay 0.05663
+15 Jun 19:18:15 ntpdate[29734]: step time server 193.171.23.164 offset -7.023431 sec
+server 193.171.23.164, stratum 1, offset -7.026118, delay 0.05489
+15 Jun 19:18:26 ntpdate[29747]: step time server 193.171.23.164 offset -7.026118 sec
+server 193.171.23.164, stratum 1, offset -7.035781, delay 0.05408
+15 Jun 19:18:36 ntpdate[29752]: step time server 193.171.23.164 offset -7.035781 sec
+server 193.171.23.164, stratum 1, offset -7.041554, delay 0.05431
+15 Jun 19:18:46 ntpdate[29757]: step time server 193.171.23.164 offset -7.041554 sec
+server 193.171.23.164, stratum 1, offset -7.042109, delay 0.05652
+15 Jun 19:18:56 ntpdate[29764]: step time server 193.171.23.164 offset -7.042109 sec
+server 193.171.23.164, stratum 1, offset -7.048445, delay 0.05244
+15 Jun 19:19:06 ntpdate[29770]: step time server 193.171.23.164 offset -7.048445 sec
+server 193.171.23.164, stratum 1, offset -7.053160, delay 0.05443
+15 Jun 19:19:16 ntpdate[29775]: step time server 193.171.23.164 offset -7.053160 sec
+server 193.171.23.164, stratum 1, offset -7.060039, delay 0.05447
+15 Jun 19:19:26 ntpdate[29783]: step time server 193.171.23.164 offset -7.060039 sec
+server 193.171.23.164, stratum 1, offset -7.057873, delay 0.04301
+15 Jun 19:19:37 ntpdate[29788]: step time server 193.171.23.164 offset -7.057873 sec
+server 193.171.23.164, stratum 1, offset -7.073454, delay 0.06155
+15 Jun 19:19:47 ntpdate[29793]: step time server 193.171.23.164 offset -7.073454 sec
+server 193.171.23.164, stratum 1, offset -7.081782, delay 0.05896
+15 Jun 19:19:57 ntpdate[29800]: step time server 193.171.23.164 offset -7.081782 sec
+server 193.171.23.164, stratum 1, offset -7.075493, delay 0.04062
+15 Jun 19:20:07 ntpdate[29805]: step time server 193.171.23.164 offset -7.075493 sec
+server 193.171.23.164, stratum 1, offset -7.088170, delay 0.06197
+15 Jun 19:20:17 ntpdate[29810]: step time server 193.171.23.164 offset -7.088170 sec
+server 193.171.23.164, stratum 1, offset -7.092231, delay 0.06082
+15 Jun 19:20:27 ntpdate[29815]: step time server 193.171.23.164 offset -7.092231 sec
+server 193.171.23.164, stratum 1, offset -7.087766, delay 0.05400
+15 Jun 19:20:37 ntpdate[29820]: step time server 193.171.23.164 offset -7.087766 sec
+server 193.171.23.164, stratum 1, offset -7.097056, delay 0.05440
+15 Jun 19:20:48 ntpdate[29826]: step time server 193.171.23.164 offset -7.097056 sec
+server 193.171.23.164, stratum 1, offset -7.111862, delay 0.05904
+15 Jun 19:20:58 ntpdate[29831]: step time server 193.171.23.164 offset -7.111862 sec
+server 193.171.23.164, stratum 1, offset -7.112401, delay 0.05431
+15 Jun 19:21:08 ntpdate[29836]: step time server 193.171.23.164 offset -7.112401 sec
+server 193.171.23.164, stratum 1, offset -7.115737, delay 0.05067
+15 Jun 19:21:18 ntpdate[29841]: step time server 193.171.23.164 offset -7.115737 sec
+server 193.171.23.164, stratum 1, offset -7.117458, delay 0.04269
+15 Jun 19:21:28 ntpdate[29846]: step time server 193.171.23.164 offset -7.117458 sec
+server 193.171.23.164, stratum 1, offset -7.137274, delay 0.06821
+15 Jun 19:21:38 ntpdate[29853]: step time server 193.171.23.164 offset -7.137274 sec
+server 193.171.23.164, stratum 1, offset -7.132187, delay 0.05260
+15 Jun 19:21:48 ntpdate[30054]: step time server 193.171.23.164 offset -7.132187 sec
+server 193.171.23.164, stratum 1, offset -7.142979, delay 0.05788
+15 Jun 19:21:59 ntpdate[30120]: step time server 193.171.23.164 offset -7.142979 sec
+server 193.171.23.164, stratum 1, offset -7.134451, delay 0.04410
+15 Jun 19:22:09 ntpdate[30130]: step time server 193.171.23.164 offset -7.134451 sec
+server 193.171.23.164, stratum 1, offset -7.143254, delay 0.06033
+15 Jun 19:22:19 ntpdate[30136]: step time server 193.171.23.164 offset -7.143254 sec
+server 193.171.23.164, stratum 1, offset -7.157213, delay 0.05428
+15 Jun 19:22:29 ntpdate[30143]: step time server 193.171.23.164 offset -7.157213 sec
+server 193.171.23.164, stratum 1, offset -7.169116, delay 0.07454
+15 Jun 19:22:39 ntpdate[30148]: step time server 193.171.23.164 offset -7.169116 sec
+server 193.171.23.164, stratum 1, offset -7.164131, delay 0.05376
+15 Jun 19:22:49 ntpdate[30155]: step time server 193.171.23.164 offset -7.164131 sec
+server 193.171.23.164, stratum 1, offset -7.175194, delay 0.06189
+15 Jun 19:22:59 ntpdate[30160]: step time server 193.171.23.164 offset -7.175194 sec
+server 193.171.23.164, stratum 1, offset -7.186363, delay 0.07310
+15 Jun 19:23:10 ntpdate[30167]: step time server 193.171.23.164 offset -7.186363 sec
+server 193.171.23.164, stratum 1, offset -7.181436, delay 0.08395
+15 Jun 19:23:20 ntpdate[30173]: step time server 193.171.23.164 offset -7.181436 sec
+server 193.171.23.164, stratum 1, offset -7.200683, delay 0.07924
+15 Jun 19:23:29 ntpdate[30182]: step time server 193.171.23.164 offset -7.200683 sec
+server 193.171.23.164, stratum 1, offset -7.211244, delay 0.09436
+15 Jun 19:23:40 ntpdate[30192]: step time server 193.171.23.164 offset -7.211244 sec
+server 193.171.23.164, stratum 1, offset -7.202424, delay 0.07635
+15 Jun 19:23:50 ntpdate[30285]: step time server 193.171.23.164 offset -7.202424 sec
+server 193.171.23.164, stratum 1, offset -7.200658, delay 0.05751
+15 Jun 19:24:00 ntpdate[30291]: step time server 193.171.23.164 offset -7.200658 sec
+server 193.171.23.164, stratum 1, offset -7.201711, delay 0.05389
+15 Jun 19:24:10 ntpdate[30298]: step time server 193.171.23.164 offset -7.201711 sec
+server 193.171.23.164, stratum 1, offset -7.205855, delay 0.04977
+15 Jun 19:24:20 ntpdate[30310]: step time server 193.171.23.164 offset -7.205855 sec
+server 193.171.23.164, stratum 1, offset -7.217911, delay 0.05626
+15 Jun 19:24:30 ntpdate[30322]: step time server 193.171.23.164 offset -7.217911 sec
+server 193.171.23.164, stratum 1, offset -7.223774, delay 0.05409
+15 Jun 19:24:40 ntpdate[30327]: step time server 193.171.23.164 offset -7.223774 sec
+server 193.171.23.164, stratum 1, offset -7.228395, delay 0.05638
+15 Jun 19:24:51 ntpdate[30342]: step time server 193.171.23.164 offset -7.228395 sec
+server 193.171.23.164, stratum 1, offset -7.226603, delay 0.04132
+15 Jun 19:25:01 ntpdate[30356]: step time server 193.171.23.164 offset -7.226603 sec
+server 193.171.23.164, stratum 1, offset -7.237482, delay 0.06364
+15 Jun 19:25:11 ntpdate[30428]: step time server 193.171.23.164 offset -7.237482 sec
+server 193.171.23.164, stratum 1, offset -7.239528, delay 0.05382
+15 Jun 19:25:21 ntpdate[30446]: step time server 193.171.23.164 offset -7.239528 sec
+server 193.171.23.164, stratum 1, offset -7.291100, delay 0.14726
+15 Jun 19:25:31 ntpdate[30454]: step time server 193.171.23.164 offset -7.291100 sec
+server 193.171.23.164, stratum 1, offset -7.258314, delay 0.06152
+15 Jun 19:25:41 ntpdate[30459]: step time server 193.171.23.164 offset -7.258314 sec
+server 193.171.23.164, stratum 1, offset -7.255334, delay 0.04404
+15 Jun 19:25:52 ntpdate[30464]: step time server 193.171.23.164 offset -7.255334 sec
+server 193.171.23.164, stratum 1, offset -7.258080, delay 0.03839
+15 Jun 19:26:02 ntpdate[30489]: step time server 193.171.23.164 offset -7.258080 sec
+server 193.171.23.164, stratum 1, offset -7.273748, delay 0.06335
+15 Jun 19:26:12 ntpdate[30498]: step time server 193.171.23.164 offset -7.273748 sec
+server 193.171.23.164, stratum 1, offset -7.281019, delay 0.06937
+15 Jun 19:26:22 ntpdate[30573]: step time server 193.171.23.164 offset -7.281019 sec
+server 193.171.23.164, stratum 1, offset -7.229740, delay 0.14923
+15 Jun 19:26:32 ntpdate[30582]: step time server 193.171.23.164 offset -7.229740 sec
+server 193.171.23.164, stratum 1, offset -7.282744, delay 0.05598
+15 Jun 19:26:42 ntpdate[30587]: step time server 193.171.23.164 offset -7.282744 sec
+server 193.171.23.164, stratum 1, offset -7.314976, delay 0.10158
+15 Jun 19:26:53 ntpdate[30692]: step time server 193.171.23.164 offset -7.314976 sec
+server 193.171.23.164, stratum 1, offset -7.307423, delay 0.07466
+15 Jun 19:27:03 ntpdate[30745]: step time server 193.171.23.164 offset -7.307423 sec
+server 193.171.23.164, stratum 1, offset -7.318642, delay 0.09419
+15 Jun 19:27:13 ntpdate[30752]: step time server 193.171.23.164 offset -7.318642 sec
+server 193.171.23.164, stratum 1, offset -7.326185, delay 0.11609
+15 Jun 19:27:23 ntpdate[30781]: step time server 193.171.23.164 offset -7.326185 sec
+server 193.171.23.164, stratum 1, offset -7.319078, delay 0.06673
+15 Jun 19:27:33 ntpdate[30851]: step time server 193.171.23.164 offset -7.319078 sec
+server 193.171.23.164, stratum 1, offset -7.308830, delay 0.04417
+15 Jun 19:27:43 ntpdate[30862]: step time server 193.171.23.164 offset -7.308830 sec
+server 193.171.23.164, stratum 1, offset -7.336565, delay 0.08064
+15 Jun 19:27:54 ntpdate[30878]: step time server 193.171.23.164 offset -7.336565 sec
+server 193.171.23.164, stratum 1, offset -7.332822, delay 0.06357
+15 Jun 19:28:04 ntpdate[30886]: step time server 193.171.23.164 offset -7.332822 sec
+server 193.171.23.164, stratum 1, offset -7.331957, delay 0.05319
+15 Jun 19:28:14 ntpdate[30970]: step time server 193.171.23.164 offset -7.331957 sec
+server 193.171.23.164, stratum 1, offset -7.334093, delay 0.05650
+15 Jun 19:28:24 ntpdate[30980]: step time server 193.171.23.164 offset -7.334093 sec
+server 193.171.23.164, stratum 1, offset -7.342900, delay 0.05338
+15 Jun 19:28:34 ntpdate[30985]: step time server 193.171.23.164 offset -7.342900 sec
+server 193.171.23.164, stratum 1, offset -7.348667, delay 0.04985
+15 Jun 19:28:44 ntpdate[30991]: step time server 193.171.23.164 offset -7.348667 sec
+server 193.171.23.164, stratum 1, offset -7.345408, delay 0.04094
+15 Jun 19:28:55 ntpdate[31018]: step time server 193.171.23.164 offset -7.345408 sec
+server 193.171.23.164, stratum 1, offset -7.363363, delay 0.08009
+15 Jun 19:29:05 ntpdate[31050]: step time server 193.171.23.164 offset -7.363363 sec
+server 193.171.23.164, stratum 1, offset -7.372814, delay 0.07140
+15 Jun 19:29:15 ntpdate[31061]: step time server 193.171.23.164 offset -7.372814 sec
+server 193.171.23.164, stratum 1, offset -7.377545, delay 0.07047
+15 Jun 19:29:25 ntpdate[31086]: step time server 193.171.23.164 offset -7.377545 sec
+server 193.171.23.164, stratum 1, offset -7.382918, delay 0.07314
+15 Jun 19:29:35 ntpdate[31096]: step time server 193.171.23.164 offset -7.382918 sec
+server 193.171.23.164, stratum 1, offset -7.378039, delay 0.05215
+15 Jun 19:29:45 ntpdate[31116]: step time server 193.171.23.164 offset -7.378039 sec
+server 193.171.23.164, stratum 1, offset -7.388243, delay 0.06277
+15 Jun 19:29:55 ntpdate[31122]: step time server 193.171.23.164 offset -7.388243 sec
+server 193.171.23.164, stratum 1, offset -7.392589, delay 0.05598
+15 Jun 19:30:06 ntpdate[31149]: step time server 193.171.23.164 offset -7.392589 sec
+server 193.171.23.164, stratum 1, offset -7.399538, delay 0.05489
+15 Jun 19:30:16 ntpdate[31179]: step time server 193.171.23.164 offset -7.399538 sec
+server 193.171.23.164, stratum 1, offset -7.394438, delay 0.05347
+15 Jun 19:30:26 ntpdate[31184]: step time server 193.171.23.164 offset -7.394438 sec
+server 193.171.23.164, stratum 1, offset -7.406886, delay 0.05402
+15 Jun 19:30:36 ntpdate[31189]: step time server 193.171.23.164 offset -7.406886 sec
+server 193.171.23.164, stratum 1, offset -7.425856, delay 0.10307
+15 Jun 19:30:46 ntpdate[31194]: step time server 193.171.23.164 offset -7.425856 sec
+server 193.171.23.164, stratum 1, offset -7.424507, delay 0.06903
+15 Jun 19:30:56 ntpdate[31202]: step time server 193.171.23.164 offset -7.424507 sec
+server 193.171.23.164, stratum 1, offset -7.429103, delay 0.09178
+15 Jun 19:31:07 ntpdate[31208]: step time server 193.171.23.164 offset -7.429103 sec
+server 193.171.23.164, stratum 1, offset -7.438416, delay 0.09753
+15 Jun 19:31:17 ntpdate[31214]: step time server 193.171.23.164 offset -7.438416 sec
+server 193.171.23.164, stratum 1, offset -7.451673, delay 0.09279
+15 Jun 19:31:27 ntpdate[31219]: step time server 193.171.23.164 offset -7.451673 sec
+server 193.171.23.164, stratum 1, offset -7.445846, delay 0.07176
+15 Jun 19:31:37 ntpdate[31226]: step time server 193.171.23.164 offset -7.445846 sec
+server 193.171.23.164, stratum 1, offset -7.443666, delay 0.05653
+15 Jun 19:31:47 ntpdate[31231]: step time server 193.171.23.164 offset -7.443666 sec
+server 193.171.23.164, stratum 1, offset -7.444567, delay 0.05376
+15 Jun 19:31:57 ntpdate[31237]: step time server 193.171.23.164 offset -7.444567 sec
+server 193.171.23.164, stratum 1, offset -7.451150, delay 0.05147
+15 Jun 19:32:08 ntpdate[31242]: step time server 193.171.23.164 offset -7.451150 sec
+server 193.171.23.164, stratum 1, offset -7.462516, delay 0.05763
+15 Jun 19:32:18 ntpdate[31247]: step time server 193.171.23.164 offset -7.462516 sec
+server 193.171.23.164, stratum 1, offset -7.461494, delay 0.04936
+15 Jun 19:32:28 ntpdate[31252]: step time server 193.171.23.164 offset -7.461494 sec
+server 193.171.23.164, stratum 1, offset -7.465934, delay 0.05602
+15 Jun 19:32:38 ntpdate[31259]: step time server 193.171.23.164 offset -7.465934 sec
+server 193.171.23.164, stratum 1, offset -7.515298, delay 0.15662
+15 Jun 19:32:48 ntpdate[31264]: step time server 193.171.23.164 offset -7.515298 sec
+server 193.171.23.164, stratum 1, offset -7.518196, delay 0.15674
+15 Jun 19:32:58 ntpdate[31271]: step time server 193.171.23.164 offset -7.518196 sec
+server 193.171.23.164, stratum 1, offset -7.482531, delay 0.04933
+15 Jun 19:33:09 ntpdate[31276]: step time server 193.171.23.164 offset -7.482531 sec
+server 193.171.23.164, stratum 1, offset -7.538085, delay 0.15964
+15 Jun 19:33:19 ntpdate[31281]: step time server 193.171.23.164 offset -7.538085 sec
+server 193.171.23.164, stratum 1, offset -7.489995, delay 0.04970
+15 Jun 19:33:29 ntpdate[31288]: step time server 193.171.23.164 offset -7.489995 sec
+server 193.171.23.164, stratum 1, offset -7.498450, delay 0.05424
+15 Jun 19:33:39 ntpdate[31293]: step time server 193.171.23.164 offset -7.498450 sec
+server 193.171.23.164, stratum 1, offset -7.505770, delay 0.05388
+15 Jun 19:33:49 ntpdate[31298]: step time server 193.171.23.164 offset -7.505770 sec
+server 193.171.23.164, stratum 1, offset -7.508819, delay 0.05302
+15 Jun 19:33:59 ntpdate[31303]: step time server 193.171.23.164 offset -7.508819 sec
+server 193.171.23.164, stratum 1, offset -7.507524, delay 0.05771
+15 Jun 19:34:10 ntpdate[31308]: step time server 193.171.23.164 offset -7.507524 sec
+server 193.171.23.164, stratum 1, offset -7.519865, delay 0.05334
+15 Jun 19:34:20 ntpdate[31313]: step time server 193.171.23.164 offset -7.519865 sec
+server 193.171.23.164, stratum 1, offset -7.521120, delay 0.05394
+15 Jun 19:34:30 ntpdate[31318]: step time server 193.171.23.164 offset -7.521120 sec
+server 193.171.23.164, stratum 1, offset -7.529331, delay 0.05045
+15 Jun 19:34:40 ntpdate[31323]: step time server 193.171.23.164 offset -7.529331 sec
+server 193.171.23.164, stratum 1, offset -7.536434, delay 0.05756
+15 Jun 19:34:50 ntpdate[31328]: step time server 193.171.23.164 offset -7.536434 sec
+server 193.171.23.164, stratum 1, offset -7.540785, delay 0.05017
+15 Jun 19:35:00 ntpdate[31333]: step time server 193.171.23.164 offset -7.540785 sec
+server 193.171.23.164, stratum 1, offset -7.545809, delay 0.05736
+15 Jun 19:35:10 ntpdate[31338]: step time server 193.171.23.164 offset -7.545809 sec
+server 193.171.23.164, stratum 1, offset -7.553006, delay 0.05418
+15 Jun 19:35:21 ntpdate[31343]: step time server 193.171.23.164 offset -7.553006 sec
+server 193.171.23.164, stratum 1, offset -7.603676, delay 0.15669
+15 Jun 19:35:31 ntpdate[31348]: step time server 193.171.23.164 offset -7.603676 sec
+server 193.171.23.164, stratum 1, offset -7.562553, delay 0.05026
+15 Jun 19:35:41 ntpdate[31353]: step time server 193.171.23.164 offset -7.562553 sec
+server 193.171.23.164, stratum 1, offset -7.572799, delay 0.05763
+15 Jun 19:35:51 ntpdate[31358]: step time server 193.171.23.164 offset -7.572799 sec
+server 193.171.23.164, stratum 1, offset -7.615924, delay 0.15659
+15 Jun 19:36:01 ntpdate[31363]: step time server 193.171.23.164 offset -7.615924 sec
+server 193.171.23.164, stratum 1, offset -7.571214, delay 0.05086
+15 Jun 19:36:11 ntpdate[31368]: step time server 193.171.23.164 offset -7.571214 sec
+server 193.171.23.164, stratum 1, offset -7.586022, delay 0.05418
+15 Jun 19:36:22 ntpdate[31373]: step time server 193.171.23.164 offset -7.586022 sec
+server 193.171.23.164, stratum 1, offset -7.583797, delay 0.05362
+15 Jun 19:36:32 ntpdate[31378]: step time server 193.171.23.164 offset -7.583797 sec
+server 193.171.23.164, stratum 1, offset -7.590645, delay 0.05406
+15 Jun 19:36:42 ntpdate[31383]: step time server 193.171.23.164 offset -7.590645 sec
+server 193.171.23.164, stratum 1, offset -7.597862, delay 0.05382
+15 Jun 19:36:52 ntpdate[31388]: step time server 193.171.23.164 offset -7.597862 sec
+server 193.171.23.164, stratum 1, offset -7.600570, delay 0.05432
+15 Jun 19:37:02 ntpdate[31394]: step time server 193.171.23.164 offset -7.600570 sec
+server 193.171.23.164, stratum 1, offset -7.608852, delay 0.05411
+15 Jun 19:37:12 ntpdate[31399]: step time server 193.171.23.164 offset -7.608852 sec
+server 193.171.23.164, stratum 1, offset -7.613890, delay 0.05690
+15 Jun 19:37:22 ntpdate[31404]: step time server 193.171.23.164 offset -7.613890 sec
+server 193.171.23.164, stratum 1, offset -7.621322, delay 0.05055
+15 Jun 19:37:33 ntpdate[31409]: step time server 193.171.23.164 offset -7.621322 sec
+server 193.171.23.164, stratum 1, offset -7.620245, delay 0.05388
+15 Jun 19:37:43 ntpdate[31415]: step time server 193.171.23.164 offset -7.620245 sec
+server 193.171.23.164, stratum 1, offset -7.664465, delay 0.13000
+15 Jun 19:37:53 ntpdate[31420]: step time server 193.171.23.164 offset -7.664465 sec
+server 193.171.23.164, stratum 1, offset -7.637015, delay 0.05391
+15 Jun 19:38:03 ntpdate[31425]: step time server 193.171.23.164 offset -7.637015 sec
+server 193.171.23.164, stratum 1, offset -7.666939, delay 0.12975
+15 Jun 19:38:13 ntpdate[31430]: step time server 193.171.23.164 offset -7.666939 sec
+server 193.171.23.164, stratum 1, offset -7.647044, delay 0.05408
+15 Jun 19:38:24 ntpdate[31435]: step time server 193.171.23.164 offset -7.647044 sec
+server 193.171.23.164, stratum 1, offset -7.652004, delay 0.05382
+15 Jun 19:38:34 ntpdate[31440]: step time server 193.171.23.164 offset -7.652004 sec
+server 193.171.23.164, stratum 1, offset -7.659409, delay 0.05421
+15 Jun 19:38:44 ntpdate[31445]: step time server 193.171.23.164 offset -7.659409 sec
+server 193.171.23.164, stratum 1, offset -7.656541, delay 0.05440
+15 Jun 19:38:54 ntpdate[31450]: step time server 193.171.23.164 offset -7.656541 sec
+server 193.171.23.164, stratum 1, offset -7.711912, delay 0.16455
+15 Jun 19:39:04 ntpdate[31455]: step time server 193.171.23.164 offset -7.711912 sec
+server 193.171.23.164, stratum 1, offset -7.719743, delay 0.15141
+15 Jun 19:39:14 ntpdate[31460]: step time server 193.171.23.164 offset -7.719743 sec
+server 193.171.23.164, stratum 1, offset -7.721004, delay 0.15581
+15 Jun 19:39:25 ntpdate[31466]: step time server 193.171.23.164 offset -7.721004 sec
+server 193.171.23.164, stratum 1, offset -7.729377, delay 0.15576
+15 Jun 19:39:35 ntpdate[31471]: step time server 193.171.23.164 offset -7.729377 sec
+server 193.171.23.164, stratum 1, offset -7.687523, delay 0.05109
+15 Jun 19:39:45 ntpdate[31476]: step time server 193.171.23.164 offset -7.687523 sec
+server 193.171.23.164, stratum 1, offset -7.685691, delay 0.05377
+15 Jun 19:39:55 ntpdate[31481]: step time server 193.171.23.164 offset -7.685691 sec
+server 193.171.23.164, stratum 1, offset -7.698354, delay 0.05374
+15 Jun 19:40:05 ntpdate[31486]: step time server 193.171.23.164 offset -7.698354 sec
+server 193.171.23.164, stratum 1, offset -7.706548, delay 0.05402
+15 Jun 19:40:16 ntpdate[31491]: step time server 193.171.23.164 offset -7.706548 sec
+server 193.171.23.164, stratum 1, offset -7.751752, delay 0.15875
+15 Jun 19:40:26 ntpdate[31496]: step time server 193.171.23.164 offset -7.751752 sec
+server 193.171.23.164, stratum 1, offset -7.710425, delay 0.05154
+15 Jun 19:40:36 ntpdate[31501]: step time server 193.171.23.164 offset -7.710425 sec
+server 193.171.23.164, stratum 1, offset -7.713939, delay 0.05431
+15 Jun 19:40:46 ntpdate[31506]: step time server 193.171.23.164 offset -7.713939 sec
+server 193.171.23.164, stratum 1, offset -7.725579, delay 0.05396
+15 Jun 19:40:56 ntpdate[31511]: step time server 193.171.23.164 offset -7.725579 sec
+server 193.171.23.164, stratum 1, offset -7.731773, delay 0.05399
+15 Jun 19:41:06 ntpdate[31516]: step time server 193.171.23.164 offset -7.731773 sec
+server 193.171.23.164, stratum 1, offset -7.736665, delay 0.05373
+15 Jun 19:41:16 ntpdate[31521]: step time server 193.171.23.164 offset -7.736665 sec
+server 193.171.23.164, stratum 1, offset -7.738609, delay 0.05432
+15 Jun 19:41:27 ntpdate[31526]: step time server 193.171.23.164 offset -7.738609 sec
+server 193.171.23.164, stratum 1, offset -7.745271, delay 0.05391
+15 Jun 19:41:37 ntpdate[31531]: step time server 193.171.23.164 offset -7.745271 sec
+server 193.171.23.164, stratum 1, offset -7.754681, delay 0.05408
+15 Jun 19:41:47 ntpdate[31536]: step time server 193.171.23.164 offset -7.754681 sec
+server 193.171.23.164, stratum 1, offset -7.759122, delay 0.05872
+15 Jun 19:41:57 ntpdate[31541]: step time server 193.171.23.164 offset -7.759122 sec
+server 193.171.23.164, stratum 1, offset -7.758570, delay 0.04900
+15 Jun 19:42:07 ntpdate[31546]: step time server 193.171.23.164 offset -7.758570 sec
+server 193.171.23.164, stratum 1, offset -7.767184, delay 0.08281
+15 Jun 19:42:17 ntpdate[31552]: step time server 193.171.23.164 offset -7.767184 sec
+server 193.171.23.164, stratum 1, offset -7.796865, delay 0.12793
+15 Jun 19:42:28 ntpdate[31557]: step time server 193.171.23.164 offset -7.796865 sec
+server 193.171.23.164, stratum 1, offset -7.781003, delay 0.05428
+15 Jun 19:42:38 ntpdate[31562]: step time server 193.171.23.164 offset -7.781003 sec
+server 193.171.23.164, stratum 1, offset -7.781969, delay 0.05386
+15 Jun 19:42:48 ntpdate[31568]: step time server 193.171.23.164 offset -7.781969 sec
+server 193.171.23.164, stratum 1, offset -7.791189, delay 0.05418
+15 Jun 19:42:58 ntpdate[31573]: step time server 193.171.23.164 offset -7.791189 sec
+server 193.171.23.164, stratum 1, offset -7.792807, delay 0.05417
+15 Jun 19:43:08 ntpdate[31578]: step time server 193.171.23.164 offset -7.792807 sec
+server 193.171.23.164, stratum 1, offset -7.796663, delay 0.05397
+15 Jun 19:43:18 ntpdate[31583]: step time server 193.171.23.164 offset -7.796663 sec
+server 193.171.23.164, stratum 1, offset -7.759260, delay 0.25868
+15 Jun 19:43:29 ntpdate[31589]: step time server 193.171.23.164 offset -7.759260 sec
+server 193.171.23.164, stratum 1, offset -7.805213, delay 0.05688
+15 Jun 19:43:39 ntpdate[31594]: step time server 193.171.23.164 offset -7.805213 sec
+server 193.171.23.164, stratum 1, offset -7.862516, delay 0.15614
+15 Jun 19:43:49 ntpdate[31599]: step time server 193.171.23.164 offset -7.862516 sec
+server 193.171.23.164, stratum 1, offset -7.815326, delay 0.05174
+15 Jun 19:43:59 ntpdate[31604]: step time server 193.171.23.164 offset -7.815326 sec
+server 193.171.23.164, stratum 1, offset -7.821475, delay 0.05415
+15 Jun 19:44:09 ntpdate[31609]: step time server 193.171.23.164 offset -7.821475 sec
+server 193.171.23.164, stratum 1, offset -7.832541, delay 0.05426
+15 Jun 19:44:19 ntpdate[31614]: step time server 193.171.23.164 offset -7.832541 sec
+server 193.171.23.164, stratum 1, offset -7.882177, delay 0.15886
+15 Jun 19:44:30 ntpdate[31619]: step time server 193.171.23.164 offset -7.882177 sec
+server 193.171.23.164, stratum 1, offset -7.836687, delay 0.05170
+15 Jun 19:44:40 ntpdate[31624]: step time server 193.171.23.164 offset -7.836687 sec
+server 193.171.23.164, stratum 1, offset -7.843114, delay 0.05713
+15 Jun 19:44:50 ntpdate[31629]: step time server 193.171.23.164 offset -7.843114 sec
+server 193.171.23.164, stratum 1, offset -7.841184, delay 0.05054
+15 Jun 19:45:00 ntpdate[31634]: step time server 193.171.23.164 offset -7.841184 sec
+server 193.171.23.164, stratum 1, offset -7.852201, delay 0.04230
+15 Jun 19:45:10 ntpdate[31639]: step time server 193.171.23.164 offset -7.852201 sec
+server 193.171.23.164, stratum 1, offset -7.861981, delay 0.06485
+15 Jun 19:45:20 ntpdate[31644]: step time server 193.171.23.164 offset -7.861981 sec
+server 193.171.23.164, stratum 1, offset -7.864496, delay 0.05409
+15 Jun 19:45:31 ntpdate[31649]: step time server 193.171.23.164 offset -7.864496 sec
+server 193.171.23.164, stratum 1, offset -7.867483, delay 0.05370
+15 Jun 19:45:41 ntpdate[31654]: step time server 193.171.23.164 offset -7.867483 sec
+server 193.171.23.164, stratum 1, offset -7.878717, delay 0.05736
+15 Jun 19:45:51 ntpdate[31659]: step time server 193.171.23.164 offset -7.878717 sec
+server 193.171.23.164, stratum 1, offset -7.884621, delay 0.05380
+15 Jun 19:46:01 ntpdate[31664]: step time server 193.171.23.164 offset -7.884621 sec
+server 193.171.23.164, stratum 1, offset -7.889922, delay 0.05391
+15 Jun 19:46:11 ntpdate[31669]: step time server 193.171.23.164 offset -7.889922 sec
+server 193.171.23.164, stratum 1, offset -7.893986, delay 0.05510
+15 Jun 19:46:21 ntpdate[31674]: step time server 193.171.23.164 offset -7.893986 sec
+server 193.171.23.164, stratum 1, offset -7.942575, delay 0.15689
+15 Jun 19:46:32 ntpdate[31679]: step time server 193.171.23.164 offset -7.942575 sec
+server 193.171.23.164, stratum 1, offset -7.903780, delay 0.05086
+15 Jun 19:46:42 ntpdate[31684]: step time server 193.171.23.164 offset -7.903780 sec
+server 193.171.23.164, stratum 1, offset -7.910897, delay 0.05461
+15 Jun 19:46:52 ntpdate[31689]: step time server 193.171.23.164 offset -7.910897 sec
+server 193.171.23.164, stratum 1, offset -7.912398, delay 0.05312
+15 Jun 19:47:02 ntpdate[31695]: step time server 193.171.23.164 offset -7.912398 sec
+server 193.171.23.164, stratum 1, offset -7.914287, delay 0.05374
+15 Jun 19:47:12 ntpdate[31700]: step time server 193.171.23.164 offset -7.914287 sec
+server 193.171.23.164, stratum 1, offset -7.925506, delay 0.05396
+15 Jun 19:47:22 ntpdate[31705]: step time server 193.171.23.164 offset -7.925506 sec
+server 193.171.23.164, stratum 1, offset -7.931669, delay 0.05386
+15 Jun 19:47:32 ntpdate[31710]: step time server 193.171.23.164 offset -7.931669 sec
+server 193.171.23.164, stratum 1, offset -7.964686, delay 0.12982
+15 Jun 19:47:43 ntpdate[31715]: step time server 193.171.23.164 offset -7.964686 sec
+server 193.171.23.164, stratum 1, offset -7.971666, delay 0.12990
+15 Jun 19:47:53 ntpdate[31721]: step time server 193.171.23.164 offset -7.971666 sec
+server 193.171.23.164, stratum 1, offset -7.941221, delay 0.05377
+15 Jun 19:48:03 ntpdate[31726]: step time server 193.171.23.164 offset -7.941221 sec
+server 193.171.23.164, stratum 1, offset -7.951290, delay 0.05391
+15 Jun 19:48:13 ntpdate[31731]: step time server 193.171.23.164 offset -7.951290 sec
+server 193.171.23.164, stratum 1, offset -7.956636, delay 0.05444
+15 Jun 19:48:23 ntpdate[31736]: step time server 193.171.23.164 offset -7.956636 sec
+server 193.171.23.164, stratum 1, offset -8.009712, delay 0.15846
+15 Jun 19:48:34 ntpdate[31741]: step time server 193.171.23.164 offset -8.009712 sec
+server 193.171.23.164, stratum 1, offset -7.966940, delay 0.05238
+15 Jun 19:48:44 ntpdate[31746]: step time server 193.171.23.164 offset -7.966940 sec
+server 193.171.23.164, stratum 1, offset -7.969525, delay 0.05380
+15 Jun 19:48:54 ntpdate[31751]: step time server 193.171.23.164 offset -7.969525 sec
+server 193.171.23.164, stratum 1, offset -7.978504, delay 0.05386
+15 Jun 19:49:04 ntpdate[31756]: step time server 193.171.23.164 offset -7.978504 sec
+server 193.171.23.164, stratum 1, offset -7.979992, delay 0.05396
+15 Jun 19:49:14 ntpdate[31761]: step time server 193.171.23.164 offset -7.979992 sec
+server 193.171.23.164, stratum 1, offset -7.989108, delay 0.05434
+15 Jun 19:49:24 ntpdate[31766]: step time server 193.171.23.164 offset -7.989108 sec
+server 193.171.23.164, stratum 1, offset -7.993880, delay 0.05399
+15 Jun 19:49:34 ntpdate[31771]: step time server 193.171.23.164 offset -7.993880 sec
+server 193.171.23.164, stratum 1, offset -7.992715, delay 0.04875
+15 Jun 19:49:45 ntpdate[31776]: step time server 193.171.23.164 offset -7.992715 sec
+server 193.171.23.164, stratum 1, offset -8.005801, delay 0.05945
+15 Jun 19:49:55 ntpdate[31781]: step time server 193.171.23.164 offset -8.005801 sec
+server 193.171.23.164, stratum 1, offset -8.008238, delay 0.05414
+15 Jun 19:50:05 ntpdate[31786]: step time server 193.171.23.164 offset -8.008238 sec
+server 193.171.23.164, stratum 1, offset -8.013875, delay 0.05415
+15 Jun 19:50:15 ntpdate[31791]: step time server 193.171.23.164 offset -8.013875 sec
+server 193.171.23.164, stratum 1, offset -8.019464, delay 0.05434
+15 Jun 19:50:25 ntpdate[31796]: step time server 193.171.23.164 offset -8.019464 sec
+server 193.171.23.164, stratum 1, offset -8.026355, delay 0.05348
+15 Jun 19:50:35 ntpdate[31801]: step time server 193.171.23.164 offset -8.026355 sec
+server 193.171.23.164, stratum 1, offset -8.030321, delay 0.05400
+15 Jun 19:50:45 ntpdate[31806]: step time server 193.171.23.164 offset -8.030321 sec
+server 193.171.23.164, stratum 1, offset -8.030368, delay 0.05405
+15 Jun 19:50:56 ntpdate[31811]: step time server 193.171.23.164 offset -8.030368 sec
+server 193.171.23.164, stratum 1, offset -8.039795, delay 0.05389
+15 Jun 19:51:06 ntpdate[31816]: step time server 193.171.23.164 offset -8.039795 sec
+server 193.171.23.164, stratum 1, offset -8.049953, delay 0.05777
+15 Jun 19:51:16 ntpdate[31821]: step time server 193.171.23.164 offset -8.049953 sec
+server 193.171.23.164, stratum 1, offset -8.051268, delay 0.05630
+15 Jun 19:51:26 ntpdate[31826]: step time server 193.171.23.164 offset -8.051268 sec
+server 193.171.23.164, stratum 1, offset -8.052181, delay 0.04773
+15 Jun 19:51:36 ntpdate[31831]: step time server 193.171.23.164 offset -8.052181 sec
+server 193.171.23.164, stratum 1, offset -8.062252, delay 0.05443
+15 Jun 19:51:46 ntpdate[31836]: step time server 193.171.23.164 offset -8.062252 sec
+server 193.171.23.164, stratum 1, offset -8.061803, delay 0.05363
+15 Jun 19:51:56 ntpdate[31841]: step time server 193.171.23.164 offset -8.061803 sec
+server 193.171.23.164, stratum 1, offset -8.072263, delay 0.05429
+15 Jun 19:52:07 ntpdate[31846]: step time server 193.171.23.164 offset -8.072263 sec
+server 193.171.23.164, stratum 1, offset -8.071759, delay 0.05316
+15 Jun 19:52:17 ntpdate[31851]: step time server 193.171.23.164 offset -8.071759 sec
+server 193.171.23.164, stratum 1, offset -8.071476, delay 0.05594
+15 Jun 19:52:27 ntpdate[31856]: step time server 193.171.23.164 offset -8.071476 sec
+server 193.171.23.164, stratum 1, offset -8.088345, delay 0.05403
+15 Jun 19:52:37 ntpdate[31861]: step time server 193.171.23.164 offset -8.088345 sec
+server 193.171.23.164, stratum 1, offset -8.091522, delay 0.05382
+15 Jun 19:52:47 ntpdate[31867]: step time server 193.171.23.164 offset -8.091522 sec
+server 193.171.23.164, stratum 1, offset -8.097212, delay 0.05443
+15 Jun 19:52:57 ntpdate[31873]: step time server 193.171.23.164 offset -8.097212 sec
+server 193.171.23.164, stratum 1, offset -8.104046, delay 0.05363
+15 Jun 19:53:07 ntpdate[31878]: step time server 193.171.23.164 offset -8.104046 sec
+server 193.171.23.164, stratum 1, offset -8.107607, delay 0.05370
+15 Jun 19:53:18 ntpdate[31883]: step time server 193.171.23.164 offset -8.107607 sec
+server 193.171.23.164, stratum 1, offset -8.097544, delay 0.10228
+15 Jun 19:53:28 ntpdate[31888]: step time server 193.171.23.164 offset -8.097544 sec
+server 193.171.23.164, stratum 1, offset -8.147023, delay 0.10750
+15 Jun 19:53:38 ntpdate[31893]: step time server 193.171.23.164 offset -8.147023 sec
+server 193.171.23.164, stratum 1, offset -8.117219, delay 0.04276
+15 Jun 19:53:48 ntpdate[31898]: step time server 193.171.23.164 offset -8.117219 sec
+server 193.171.23.164, stratum 1, offset -8.130535, delay 0.06551
+15 Jun 19:53:58 ntpdate[31903]: step time server 193.171.23.164 offset -8.130535 sec
+server 193.171.23.164, stratum 1, offset -8.133666, delay 0.05434
+15 Jun 19:54:08 ntpdate[31908]: step time server 193.171.23.164 offset -8.133666 sec
+server 193.171.23.164, stratum 1, offset -8.136964, delay 0.05411
+15 Jun 19:54:18 ntpdate[31913]: step time server 193.171.23.164 offset -8.136964 sec
+server 193.171.23.164, stratum 1, offset -8.142567, delay 0.05206
+15 Jun 19:54:29 ntpdate[31918]: step time server 193.171.23.164 offset -8.142567 sec
+server 193.171.23.164, stratum 1, offset -8.147541, delay 0.05458
+15 Jun 19:54:39 ntpdate[31923]: step time server 193.171.23.164 offset -8.147541 sec
+server 193.171.23.164, stratum 1, offset -8.153926, delay 0.05426
+15 Jun 19:54:49 ntpdate[31928]: step time server 193.171.23.164 offset -8.153926 sec
+server 193.171.23.164, stratum 1, offset -8.162851, delay 0.05411
+15 Jun 19:54:59 ntpdate[31933]: step time server 193.171.23.164 offset -8.162851 sec
+server 193.171.23.164, stratum 1, offset -8.167915, delay 0.05333
+15 Jun 19:55:09 ntpdate[31938]: step time server 193.171.23.164 offset -8.167915 sec
+server 193.171.23.164, stratum 1, offset -8.172474, delay 0.05421
+15 Jun 19:55:19 ntpdate[31943]: step time server 193.171.23.164 offset -8.172474 sec
+server 193.171.23.164, stratum 1, offset -8.178813, delay 0.05667
+15 Jun 19:55:29 ntpdate[31948]: step time server 193.171.23.164 offset -8.178813 sec
+server 193.171.23.164, stratum 1, offset -8.182578, delay 0.05382
+15 Jun 19:55:40 ntpdate[31953]: step time server 193.171.23.164 offset -8.182578 sec
+server 193.171.23.164, stratum 1, offset -8.188054, delay 0.05209
+15 Jun 19:55:50 ntpdate[31958]: step time server 193.171.23.164 offset -8.188054 sec
+server 193.171.23.164, stratum 1, offset -8.187671, delay 0.05412
+15 Jun 19:56:00 ntpdate[31963]: step time server 193.171.23.164 offset -8.187671 sec
+server 193.171.23.164, stratum 1, offset -8.196387, delay 0.05553
+15 Jun 19:56:10 ntpdate[31968]: step time server 193.171.23.164 offset -8.196387 sec
+server 193.171.23.164, stratum 1, offset -8.201732, delay 0.05394
+15 Jun 19:56:20 ntpdate[31973]: step time server 193.171.23.164 offset -8.201732 sec
+server 193.171.23.164, stratum 1, offset -8.206472, delay 0.05458
+15 Jun 19:56:30 ntpdate[31978]: step time server 193.171.23.164 offset -8.206472 sec
+server 193.171.23.164, stratum 1, offset -8.210504, delay 0.05367
+15 Jun 19:56:40 ntpdate[31983]: step time server 193.171.23.164 offset -8.210504 sec
+server 193.171.23.164, stratum 1, offset -8.215014, delay 0.05391
+15 Jun 19:56:51 ntpdate[31988]: step time server 193.171.23.164 offset -8.215014 sec
+server 193.171.23.164, stratum 1, offset -8.222821, delay 0.05621
+15 Jun 19:57:01 ntpdate[31994]: step time server 193.171.23.164 offset -8.222821 sec
+server 193.171.23.164, stratum 1, offset -8.230449, delay 0.05148
+15 Jun 19:57:11 ntpdate[31999]: step time server 193.171.23.164 offset -8.230449 sec
+server 193.171.23.164, stratum 1, offset -8.227836, delay 0.05392
+15 Jun 19:57:21 ntpdate[32004]: step time server 193.171.23.164 offset -8.227836 sec
+server 193.171.23.164, stratum 1, offset -8.241161, delay 0.05403
+15 Jun 19:57:31 ntpdate[32010]: step time server 193.171.23.164 offset -8.241161 sec
+server 193.171.23.164, stratum 1, offset -8.282862, delay 0.12778
+15 Jun 19:57:41 ntpdate[32015]: step time server 193.171.23.164 offset -8.282862 sec
+server 193.171.23.164, stratum 1, offset -8.293156, delay 0.15865
+15 Jun 19:57:52 ntpdate[32020]: step time server 193.171.23.164 offset -8.293156 sec
+server 193.171.23.164, stratum 1, offset -8.252744, delay 0.05147
+15 Jun 19:58:02 ntpdate[32026]: step time server 193.171.23.164 offset -8.252744 sec
+server 193.171.23.164, stratum 1, offset -8.261320, delay 0.05414
+15 Jun 19:58:12 ntpdate[32031]: step time server 193.171.23.164 offset -8.261320 sec
+server 193.171.23.164, stratum 1, offset -8.260832, delay 0.04776
+15 Jun 19:58:22 ntpdate[32036]: step time server 193.171.23.164 offset -8.260832 sec
+server 193.171.23.164, stratum 1, offset -8.266710, delay 0.05820
+15 Jun 19:58:32 ntpdate[32041]: step time server 193.171.23.164 offset -8.266710 sec
+server 193.171.23.164, stratum 1, offset -8.273376, delay 0.05377
+15 Jun 19:58:42 ntpdate[32046]: step time server 193.171.23.164 offset -8.273376 sec
+server 193.171.23.164, stratum 1, offset -8.282305, delay 0.05426
+15 Jun 19:58:53 ntpdate[32051]: step time server 193.171.23.164 offset -8.282305 sec
+server 193.171.23.164, stratum 1, offset -8.279617, delay 0.05367
+15 Jun 19:59:03 ntpdate[32056]: step time server 193.171.23.164 offset -8.279617 sec
+server 193.171.23.164, stratum 1, offset -8.293836, delay 0.05414
+15 Jun 19:59:13 ntpdate[32061]: step time server 193.171.23.164 offset -8.293836 sec
+server 193.171.23.164, stratum 1, offset -8.292013, delay 0.05400
+15 Jun 19:59:23 ntpdate[32066]: step time server 193.171.23.164 offset -8.292013 sec
+server 193.171.23.164, stratum 1, offset -8.301488, delay 0.05421
+15 Jun 19:59:33 ntpdate[32071]: step time server 193.171.23.164 offset -8.301488 sec
+server 193.171.23.164, stratum 1, offset -8.306549, delay 0.05429
+15 Jun 19:59:43 ntpdate[32076]: step time server 193.171.23.164 offset -8.306549 sec
+server 193.171.23.164, stratum 1, offset -8.303745, delay 0.05586
+15 Jun 19:59:53 ntpdate[32081]: step time server 193.171.23.164 offset -8.303745 sec
+server 193.171.23.164, stratum 1, offset -8.317555, delay 0.05202
+15 Jun 20:00:04 ntpdate[32086]: step time server 193.171.23.164 offset -8.317555 sec
+server 193.171.23.164, stratum 1, offset -8.322886, delay 0.05334
+15 Jun 20:00:14 ntpdate[32091]: step time server 193.171.23.164 offset -8.322886 sec
+server 193.171.23.164, stratum 1, offset -8.328999, delay 0.05313
+15 Jun 20:00:24 ntpdate[32096]: step time server 193.171.23.164 offset -8.328999 sec
+server 193.171.23.164, stratum 1, offset -8.332975, delay 0.05394
+15 Jun 20:00:34 ntpdate[32101]: step time server 193.171.23.164 offset -8.332975 sec
+server 193.171.23.164, stratum 1, offset -8.337417, delay 0.05434
+15 Jun 20:00:44 ntpdate[32106]: step time server 193.171.23.164 offset -8.337417 sec
+server 193.171.23.164, stratum 1, offset -8.335019, delay 0.05731
+15 Jun 20:00:54 ntpdate[32111]: step time server 193.171.23.164 offset -8.335019 sec
+server 193.171.23.164, stratum 1, offset -8.374895, delay 0.15445
+15 Jun 20:01:05 ntpdate[32116]: step time server 193.171.23.164 offset -8.374895 sec
+server 193.171.23.164, stratum 1, offset -8.354635, delay 0.05270
+15 Jun 20:01:15 ntpdate[32121]: step time server 193.171.23.164 offset -8.354635 sec
+server 193.171.23.164, stratum 1, offset -8.353307, delay 0.05403
+15 Jun 20:01:25 ntpdate[32126]: step time server 193.171.23.164 offset -8.353307 sec
+server 193.171.23.164, stratum 1, offset -9.182855, delay 1.69698
+15 Jun 20:01:37 ntpdate[32131]: step time server 193.171.23.164 offset -9.182855 sec
+server 193.171.23.164, stratum 1, offset -8.369984, delay 0.05453
+15 Jun 20:01:47 ntpdate[32136]: step time server 193.171.23.164 offset -8.369984 sec
+server 193.171.23.164, stratum 1, offset -8.374591, delay 0.04926
+15 Jun 20:01:57 ntpdate[32141]: step time server 193.171.23.164 offset -8.374591 sec
+server 193.171.23.164, stratum 1, offset -8.421415, delay 0.16002
+15 Jun 20:02:07 ntpdate[32146]: step time server 193.171.23.164 offset -8.421415 sec
+server 193.171.23.164, stratum 1, offset -8.434854, delay 0.15469
+15 Jun 20:02:17 ntpdate[32151]: step time server 193.171.23.164 offset -8.434854 sec
+server 193.171.23.164, stratum 1, offset -8.392403, delay 0.05269
+15 Jun 20:02:28 ntpdate[32156]: step time server 193.171.23.164 offset -8.392403 sec
+server 193.171.23.164, stratum 1, offset -8.399582, delay 0.05774
+15 Jun 20:02:38 ntpdate[32161]: step time server 193.171.23.164 offset -8.399582 sec
+server 193.171.23.164, stratum 1, offset -8.403136, delay 0.06351
+15 Jun 20:02:48 ntpdate[32166]: step time server 193.171.23.164 offset -8.403136 sec
+server 193.171.23.164, stratum 1, offset -8.387619, delay 0.06396
+15 Jun 20:02:58 ntpdate[32171]: step time server 193.171.23.164 offset -8.387619 sec
+server 193.171.23.164, stratum 1, offset -8.452850, delay 0.13643
+15 Jun 20:03:08 ntpdate[32178]: step time server 193.171.23.164 offset -8.452850 sec
+server 193.171.23.164, stratum 1, offset -8.414071, delay 0.05170
+15 Jun 20:03:18 ntpdate[32183]: step time server 193.171.23.164 offset -8.414071 sec
+server 193.171.23.164, stratum 1, offset -8.420570, delay 0.05350
+15 Jun 20:03:28 ntpdate[32188]: step time server 193.171.23.164 offset -8.420570 sec
+server 193.171.23.164, stratum 1, offset -8.425197, delay 0.05359
+15 Jun 20:03:39 ntpdate[32193]: step time server 193.171.23.164 offset -8.425197 sec
+server 193.171.23.164, stratum 1, offset -8.436859, delay 0.05460
+15 Jun 20:03:49 ntpdate[32198]: step time server 193.171.23.164 offset -8.436859 sec
+server 193.171.23.164, stratum 1, offset -8.438261, delay 0.05402
+15 Jun 20:03:59 ntpdate[32203]: step time server 193.171.23.164 offset -8.438261 sec
+server 193.171.23.164, stratum 1, offset -8.442339, delay 0.05389
+15 Jun 20:04:09 ntpdate[32208]: step time server 193.171.23.164 offset -8.442339 sec
+server 193.171.23.164, stratum 1, offset -8.443836, delay 0.05418
+15 Jun 20:04:19 ntpdate[32213]: step time server 193.171.23.164 offset -8.443836 sec
+server 193.171.23.164, stratum 1, offset -8.455839, delay 0.05421
+15 Jun 20:04:29 ntpdate[32218]: step time server 193.171.23.164 offset -8.455839 sec
+server 193.171.23.164, stratum 1, offset -8.459859, delay 0.05424
+15 Jun 20:04:39 ntpdate[32223]: step time server 193.171.23.164 offset -8.459859 sec
+server 193.171.23.164, stratum 1, offset -8.466739, delay 0.05396
+15 Jun 20:04:50 ntpdate[32228]: step time server 193.171.23.164 offset -8.466739 sec
+server 193.171.23.164, stratum 1, offset -8.470408, delay 0.05708
+15 Jun 20:05:00 ntpdate[32233]: step time server 193.171.23.164 offset -8.470408 sec
+server 193.171.23.164, stratum 1, offset -8.527429, delay 0.15401
+15 Jun 20:05:10 ntpdate[32239]: step time server 193.171.23.164 offset -8.527429 sec
+server 193.171.23.164, stratum 1, offset -8.476874, delay 0.05113
+15 Jun 20:05:20 ntpdate[32244]: step time server 193.171.23.164 offset -8.476874 sec
+server 193.171.23.164, stratum 1, offset -8.482890, delay 0.05374
+15 Jun 20:05:30 ntpdate[32249]: step time server 193.171.23.164 offset -8.482890 sec
+server 193.171.23.164, stratum 1, offset -8.487035, delay 0.05356
+15 Jun 20:05:40 ntpdate[32254]: step time server 193.171.23.164 offset -8.487035 sec
+server 193.171.23.164, stratum 1, offset -8.497927, delay 0.05655
+15 Jun 20:05:51 ntpdate[32259]: step time server 193.171.23.164 offset -8.497927 sec
+server 193.171.23.164, stratum 1, offset -8.500680, delay 0.05118
+15 Jun 20:06:01 ntpdate[32264]: step time server 193.171.23.164 offset -8.500680 sec
+server 193.171.23.164, stratum 1, offset -8.494538, delay 0.05338
+15 Jun 20:06:11 ntpdate[32269]: step time server 193.171.23.164 offset -8.494538 sec
+server 193.171.23.164, stratum 1, offset -8.502002, delay 0.05760
+15 Jun 20:06:21 ntpdate[32274]: step time server 193.171.23.164 offset -8.502002 sec
+server 193.171.23.164, stratum 1, offset -8.518044, delay 0.04962
+15 Jun 20:06:31 ntpdate[32279]: step time server 193.171.23.164 offset -8.518044 sec
+server 193.171.23.164, stratum 1, offset -8.510190, delay 0.05402
+15 Jun 20:06:41 ntpdate[32284]: step time server 193.171.23.164 offset -8.510190 sec
+server 193.171.23.164, stratum 1, offset -8.524129, delay 0.05609
+15 Jun 20:06:51 ntpdate[32289]: step time server 193.171.23.164 offset -8.524129 sec
+server 193.171.23.164, stratum 1, offset -8.530396, delay 0.05432
+15 Jun 20:07:02 ntpdate[32295]: step time server 193.171.23.164 offset -8.530396 sec
+server 193.171.23.164, stratum 1, offset -8.539844, delay 0.05400
+15 Jun 20:07:12 ntpdate[32300]: step time server 193.171.23.164 offset -8.539844 sec
+server 193.171.23.164, stratum 1, offset -8.541947, delay 0.05473
+15 Jun 20:07:22 ntpdate[32305]: step time server 193.171.23.164 offset -8.541947 sec
+server 193.171.23.164, stratum 1, offset -8.549293, delay 0.05325
+15 Jun 20:07:32 ntpdate[32310]: step time server 193.171.23.164 offset -8.549293 sec
+server 193.171.23.164, stratum 1, offset -8.588525, delay 0.12993
+15 Jun 20:07:42 ntpdate[32315]: step time server 193.171.23.164 offset -8.588525 sec
+server 193.171.23.164, stratum 1, offset -8.557204, delay 0.05441
+15 Jun 20:07:52 ntpdate[32320]: step time server 193.171.23.164 offset -8.557204 sec
+server 193.171.23.164, stratum 1, offset -8.554966, delay 0.05295
+15 Jun 20:08:03 ntpdate[32325]: step time server 193.171.23.164 offset -8.554966 sec
+server 193.171.23.164, stratum 1, offset -8.565512, delay 0.05432
+15 Jun 20:08:13 ntpdate[32336]: step time server 193.171.23.164 offset -8.565512 sec
