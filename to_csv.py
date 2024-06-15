@@ -37,10 +37,13 @@ while True:
             del date,time
         elif DEVICE == "LAPTOP_EDON":
             if tokens[0] == "server":
-                _,ipaddr,_,_,_,delta,_,delta_prec
+                _,ipaddr,_,_,_,delta,_,delta_prec = tokens
                 y = input().strip().split(" ntpdate")
-                datetime = y[0]
-                timestamp = date.strptime(datetime, "%d %b %H:%M:%S")
+                datetime_str = y[0] + " 2024"
+                timestamp = datetime.strptime(datetime_str, "%d %b %H:%M:%S %Y")
+                #timestamp = datetime.strptime(y[0], "%d %b %H:%M:%S")
+                srv_addr="srv_addr"
+                hostname="edon"
                 timestamp = timestamp.timestamp()
         elif DEVICE == "SAMSUNG":
             pass
