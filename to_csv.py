@@ -1,9 +1,10 @@
 #!/bin/python3
 
-from datetime import datetime
+from datetime import datetime, timedelta
 import socket
 import sys
 import csv
+import re
 
 # format
 # 0          1              2       3         4   5        6           7  8
@@ -23,6 +24,7 @@ DEVICE = sys.argv[1]
 while True:
     try:
         x=input()
+        x = re.sub(r'\s+', ' ', x)
         tokens = x.strip().split(" ")
         
         if DEVICE == "DEMON":
@@ -43,8 +45,15 @@ while True:
                 timestamp = date.strptime(datetime, "%d %b %H:%M:%S")
                 timestamp = timestamp.timestamp()
         elif DEVICE == "SAMSUNG":
-            pass
-    
+            print(tokens)
+            days_since_1900, seconds, elapsed, _, skew, _, _ = tokens
+            reference_date = datetime(1900, 1, 1)
+            timestamp = reference_date + timedelta(days=int(days_since_1900), seconds=float(seconds))
+            timestamp = timestamp.timestamp()
+            hostname = "samsung"
+            srv_addr="greater-demon"
+            delta = skew
+            delta_prec = elapsed
         csv.writerow((timestamp, hostname, srv_addr, delta,delta_prec))
     except EOFError: break
     #except ValueError:
