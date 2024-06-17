@@ -1,14 +1,14 @@
+import sys
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
+
 
 # Function to convert epoch to datetime
 def epoch_to_datetime(epoch):
     return datetime.fromtimestamp(epoch)
 
-def find_closest(row, r_timestamps):
-    closest_idx = (r_timestamps - row['timestamp_demon']).abs().idxmin()
-    return df_raspi.loc[closest_idx, 'timestamp_raspi']
 
 def load_data(csv_file):
     # Read the CSV file
@@ -18,8 +18,8 @@ def load_data(csv_file):
     df['timestamp'] = df['timestamp'].apply(pd.to_numeric).apply(epoch_to_datetime)
     return df
 
+
 def plot(df, out_file):
-    
 
     # Plotting the time series
     plt.figure(figsize=(10, 6))
@@ -35,24 +35,10 @@ def plot(df, out_file):
     # Show the plot
     plt.savefig(out_file)
 
-df_demon=load_data("ex2/csv/demon.csv")
-df_raspi=load_data("ex2/csv/raspi.csv")
 
+df_demon=load_data(sys.argv[1])
 
-plot(df_demon, "tss.greater-demon.svg")
-plot(df_raspi, "tss.raspi.svg")
+plot(df_demon, sys.argv[2])
 
-df_demon["timestamp_demon"] = df_demon["timestamp"]
-df_raspi["timestamp_raspi"] = df_raspi["timestamp"]
-df_raspi.info()
-df_demon['closest_timestamp_raspi'] = df_demon.apply(find_closest, axis=1, r_timestamps=df_raspi['timestamp_raspi'])
-
-df_combined = pd.merge(df_demon, df_raspi, left_on='closest_timestamp_raspi', right_on='timestamp_raspi')
-df_combined.info()
-# Add the values
-df_combined['timestamp'] = df_combined['timestamp_x']
-df_combined['delta'] = df_combined['delta_x'] + df_combined['delta_y']
-df_combined['delta_prec'] = df_combined['delta_prec_x'] + df_combined['delta_prec_y']
-plot(df_combined, "tss.combined.svg")
 # given n timeseries, get lstart=max(first-timestamp), get for all others the largest timestamp before lstart
 # add r,a: for each x value of a get closest value of r, add corresponding rows -> out dimension same as dim(a)
