@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 from matplotlib import dates
+import argparse
 
 
 # Function to convert epoch to datetime
@@ -18,8 +19,18 @@ def load_data(csv_file):
     #, names=['timestamp', 'hostname', 'srvname', 'delta', 'error']
     # Convert the timestamp to datetime
     df['timestamp'] = df['timestamp'].apply(pd.to_numeric).apply(epoch_to_datetime)
-    df['timestamp'] = pd.to_datetime(df['timestamp'], format='%H:%M:%S')
+    
+    # TODO why is this required?
+    #df['timestamp'] = pd.to_datetime(df['timestamp'], format='%H:%M:%S')
     return df
+
+def find_closest(row, reference_table, r_timestamps):
+    closest_idx = (r_timestamps - row['timestamp']).abs().idxmin()
+    return reference_table.loc[closest_idx, 'timestamp_ref']
+
+
+def merge_adjust(base, df):
+    pass
 
 
 def plot(df, ax, out_file):
@@ -27,15 +38,50 @@ def plot(df, ax, out_file):
     #     df['delta'] = df['delta'] - 2174
 
     # Plotting the time series
-    ax.errorbar(df['timestamp'], df['delta'], yerr=df['delta_prec'], ecolor='red', capsize=2, label=df.iloc[0]['clientname'])
+    #ax.errorbar(df['timestamp'], df['delta'], yerr=df['delta_prec'], ecolor='red', capsize=2, fmt='o', markersize=1, label=df.iloc[0]['clientname'])
+    ax.plot(df['timestamp'], df['delta'], 'o', markersize=1, label=df.iloc[0]['clientname'])
 
-if sys.argv[1] == '-h':
-    print('usage: plots_combined.py csv1 csv2 ... output_image')
+parser = argparse.ArgumentParser(description="Make the plots")
+    
+parser.add_argument('--ref', type=str, help='Reference time series')
+parser.add_argument('--output', type=str, required=True, help='output file')
+parser.add_argument('inputs', nargs='+', type=str, help='input .csv files')
+parser.add_argument('--t0', action="store_true", help='start from t0=0')
+parser.add_argument('--ref_t0', nargs='?', type=int, help='if set, offset reference time series by this rows value')
+parser.add_argument('--no_ref_for', nargs='*', type=str, help='don\'t adjust these with reference time')
 
-dfs = []
+args = parser.parse_args()
+ref = args.ref
+t0 = args.t0
+output = args.output
+inputs = args.inputs
+no_ref_for= () if args.no_ref_for is None else args.no_ref_for
+
+dfs=[]
 fig,ax = plt.subplots(figsize=(14,8))
-for x in range(1, len(sys.argv)-1):
-    plot(load_data(sys.argv[x]), ax, '')
+if ref is not None:
+    try:
+        inputs.remove(ref)
+    except ValueError: pass
+
+    ref = load_data(ref)
+    plot(ref, ax, '')
+    ref['timestamp_ref'] = ref['timestamp']
+    del ref['timestamp']
+
+for infile in inputs:
+    df = load_data(infile)
+    if ref is not None and infile not in no_ref_for:
+        df['closest_timestamp_ref'] = df.apply(find_closest, axis=1, reference_table=ref, r_timestamps=ref['timestamp_ref'])
+        df = pd.merge(df, ref, left_on='closest_timestamp_ref', right_on='timestamp_ref', suffixes=('', '_ref'))
+        df['delta'] = df['delta'] + df['delta_ref']
+    if t0:
+        delta_t0 = df['delta'].iloc[0]
+        df['delta'] = df['delta'] - delta_t0
+    dfs.append(df)
+
+for df in dfs:
+    plot(df, ax, '')
 
 # Show the plot
 plt.xlabel('Time')
@@ -53,7 +99,7 @@ ax.xaxis.set_major_formatter(fmtr)
 
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig(sys.argv[len(sys.argv)-1])
+plt.savefig(output)
 #
 # df_combined = pd.merge(df_demon, df_raspi, left_on='closest_timestamp_raspi', right_on='timestamp_raspi')
 # df_combined.info()
