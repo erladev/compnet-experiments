@@ -1,7 +1,6 @@
 #!/bin/python3
 
 from datetime import datetime, timedelta
-import socket
 import sys
 import csv
 import re
@@ -39,9 +38,10 @@ with open(sys.argv[3], 'w+', newline='') as csvfile:
 				hostname = "demon"
 				del date, time
 			elif DEVICE == "RASPI":
+				offset = 60 * 60
 				date, time, _, delta, _, delta_prec, srv_addr, _, _ = tokens
 				date = datetime.strptime(date + " " + time, "%Y-%m-%d %H:%M:%S.%f")
-				timestamp = date.timestamp()
+				timestamp = date.timestamp() + offset
 				hostname = "raspi"
 				del date, time
 			elif DEVICE == "LAPTOP_EDON":
@@ -64,16 +64,17 @@ with open(sys.argv[3], 'w+', newline='') as csvfile:
 					print(tokens)
 					continue
 			elif DEVICE == "SAMSUNG":
+				offset = 120 * 60
 				print(tokens)
 				if len(tokens) != 7:
 					continue
 				days_since_1900, seconds, elapsed, _, skew, _, _ = tokens
 				reference_date = datetime(1900, 1, 1)
 				timestamp = reference_date + timedelta(days=int(days_since_1900), seconds=float(seconds))
-				timestamp = timestamp.timestamp()
+				timestamp = timestamp.timestamp() + offset
 				hostname = "samsung"
 				srv_addr = "greater-demon"
-				delta = "{0:.6f}".format(float(skew) / 1000000)
+				delta = "{0:.6f}".format((float(skew) / 1000000))
 				delta_prec = "{0:.6f}".format(float(elapsed) / 1000000)
 			csv.writerow((timestamp, hostname, srv_addr, delta, delta_prec))
 		except EOFError:
