@@ -60,7 +60,6 @@ with open(sys.argv[3], 'w+', newline='') as csvfile:
 					hostname = "edon"
 					timestamp = timestamp.timestamp()
 				else:
-					print('else')
 					print(tokens)
 					continue
 			elif DEVICE == "SAMSUNG":
