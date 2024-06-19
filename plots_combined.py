@@ -3,6 +3,7 @@
 import sys
 import pandas as pd
 import matplotlib.pyplot as plt
+from scipy.stats import linregress
 from datetime import datetime
 from matplotlib import dates
 import argparse
@@ -11,7 +12,6 @@ import argparse
 # Function to convert epoch to datetime
 def epoch_to_datetime(epoch):
     return datetime.fromtimestamp(epoch)
-
 
 def load_data(csv_file):
     # Read the CSV file
@@ -49,12 +49,14 @@ parser.add_argument('inputs', nargs='+', type=str, help='input .csv files')
 parser.add_argument('--t0', action="store_true", help='start from t0=0')
 parser.add_argument('--ref_t0', nargs='?', type=int, help='if set, offset reference time series by this rows value')
 parser.add_argument('--no_ref_for', nargs='*', type=str, help='don\'t adjust these with reference time')
+parser.add_argument('--markers', nargs='?', type=str)
 
 args = parser.parse_args()
 ref = args.ref
 t0 = args.t0
 output = args.output
 inputs = args.inputs
+markers = args.markers
 no_ref_for= () if args.no_ref_for is None else args.no_ref_for
 
 dfs=[]
@@ -80,8 +82,21 @@ for infile in inputs:
         df['delta'] = df['delta'] - delta_t0
     dfs.append(df)
 
-for df in dfs:
     plot(df, ax, '')
+
+if markers:
+    with open(markers, 'r') as f:
+        for m in f:
+            m=m.strip().split(', ')
+            x=datetime.strptime(m[0], "%Y-%m-%d %H:%M")
+            ax.axvline(x=x, linestyle='--', label=m[1])
+            
+            intvl_sep = x
+
+for df in dfs:
+    k,d,r_val,p_val,std_err = linregress(df['timestamp'].apply(lambda d: d.timestamp()), df['delta'])
+    print(k)
+
 
 # Show the plot
 plt.xlabel('Time')
@@ -91,11 +106,11 @@ plt.legend()
 plt.grid(True)
 
 # generate a formatter, using the fields required
-fmtr = dates.DateFormatter("%H:%M")
+#fmtr = dates.DateFormatter("%H:%M")
 # need a handle to the current axes to manipulate it
-ax = plt.gca()
+#ax = plt.gca()
 # set this formatter to the axis
-ax.xaxis.set_major_formatter(fmtr)
+#ax.xaxis.set_major_formatter(fmtr)
 
 plt.xticks(rotation=45)
 plt.tight_layout()
