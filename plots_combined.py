@@ -84,36 +84,28 @@ for infile in inputs:
 
     plot(df, ax, '')
 
-if markers:
-    intervals=[]
-    last_sep=None
-    with open(markers, 'r') as f:
-        for m in f:
-            m=m.strip().split(', ')
-            x=datetime.strptime(m[0], "%Y-%m-%d %H:%M")
-            ax.axvline(x=x, linestyle='--', label=m[1])
-
-            if last_sep is None:
-                intervals.append(lambda row: row['timestamp'] < x)
-            else:
-                #print(f"(row['timestamp'] >= {last_sep}) & (row['timestamp'] < {x})")
-                intervals.append(lambda row: (row['timestamp'].timestamp() >= last_sep.timestamp()) & (row['timestamp'].timestamp() < x.timestamp()))
-            last_sep = x
-    intervals.append(lambda row: row['timestamp'] > last_sep)
-else: intervals=[lambda r: True]
-print(intervals)
-
-
 for df in dfs:
-    for i in intervals:
-        df_i = df[df.apply(i, axis=1)]
-        if df_i.empty:
-            print(df.iloc[0]['clientname'])
-            continue
-        k,d,r_val,p_val,std_err = linregress(df_i['timestamp'].apply(lambda d: d.timestamp()), df_i['delta'])
-        print(k)
+    if markers:
+        intervals=[]
+        last_sep=None
+        with open(markers, 'r') as f:
+            for m in f:
+                m=m.strip().split(', ')
+                x=datetime.strptime(m[0], "%Y-%m-%d %H:%M")
+                ax.axvline(x=x, linestyle='--', label=m[1])
+                df_i = df.copy()
+                if last_sep is None:
+                    df_i = df_i['timestamp'] < x
+                else:
+                    #print(f"(row['timestamp'] >= {last_sep}) & (row['timestamp'] < {x})")
+                    df_i = df_i['timestamp'].timestamp() >= last_sep.timestamp()
+                    df_i = df_i['timestamp'].timestamp() < x.timestamp()
+                last_sep = x
+
+                k, d, r_val, p_val, std_err = linregress(df_i['timestamp'].apply(lambda d: d.timestamp()),
+                                                         df_i['delta'])
+        intervals.append(lambda row: row['timestamp'] > last_sep)
     print("---")
-    k,d,r_val,p_val,std_err = linregress(df['timestamp'].apply(lambda d: d.timestamp()), df['delta'])
     #print("overall ", k)
 print("===")
 
