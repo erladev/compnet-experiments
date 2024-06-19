@@ -85,17 +85,37 @@ for infile in inputs:
     plot(df, ax, '')
 
 if markers:
+    intervals=[]
+    last_sep=None
     with open(markers, 'r') as f:
         for m in f:
             m=m.strip().split(', ')
             x=datetime.strptime(m[0], "%Y-%m-%d %H:%M")
             ax.axvline(x=x, linestyle='--', label=m[1])
-            
-            intvl_sep = x
+
+            if last_sep is None:
+                intervals.append(lambda row: row['timestamp'] < x)
+            else:
+                #print(f"(row['timestamp'] >= {last_sep}) & (row['timestamp'] < {x})")
+                intervals.append(lambda row: (row['timestamp'].timestamp() >= last_sep.timestamp()) & (row['timestamp'].timestamp() < x.timestamp()))
+            last_sep = x
+    intervals.append(lambda row: row['timestamp'] > last_sep)
+else: intervals=[lambda r: True]
+print(intervals)
+
 
 for df in dfs:
+    for i in intervals:
+        df_i = df[df.apply(i, axis=1)]
+        if df_i.empty:
+            print(df.iloc[0]['clientname'])
+            continue
+        k,d,r_val,p_val,std_err = linregress(df_i['timestamp'].apply(lambda d: d.timestamp()), df_i['delta'])
+        print(k)
+    print("---")
     k,d,r_val,p_val,std_err = linregress(df['timestamp'].apply(lambda d: d.timestamp()), df['delta'])
-    print(k)
+    #print("overall ", k)
+print("===")
 
 
 # Show the plot
