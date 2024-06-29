@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv('results-drift.csv')
+df['drift'] = df['drift'] * 10 ** 6
 
 # Pivot the DataFrame to get devices as columns, intervals as index, and drift as values
 pivot_df = df.pivot(index='device', columns='interval', values='drift')
@@ -16,11 +17,11 @@ plt.rc('font', size=font_size)
 plt.rc('axes', titlesize=font_size)
 plt.tick_params(labelsize=font_size)
 plt.xlabel('Interval bei Gerät', fontsize=font_size)
-plt.ylabel('Drift (s)', fontsize=font_size)
+plt.ylabel('Drift (ppm)', fontsize=font_size)
 plt.title('Drift von Geräten bei Intervall')
 plt.xticks(rotation=0)
 
 
 # Show the plot
 plt.legend(title='Intervall')
-plt.savefig('drifts.svg')
+plt.savefig('drifts.png')

@@ -129,7 +129,7 @@ for df in dfs:
 
 # Show the plot
 plt.xlabel('Zeit', fontsize=font_size)
-plt.ylabel('Delta', fontsize=font_size)
+plt.ylabel('Delta (s)', fontsize=font_size)
 plt.title('Drift von Geräten')
 plt.legend()
 plt.grid(True)
