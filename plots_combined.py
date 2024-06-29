@@ -9,6 +9,11 @@ from matplotlib import dates
 import argparse
 
 
+font_size = 14
+plt.rc('font', size=font_size)
+plt.rc('axes', titlesize=font_size)
+plt.tick_params(labelsize=font_size)
+
 # Function to convert epoch to datetime
 def epoch_to_datetime(epoch):
     return datetime.fromtimestamp(epoch)
@@ -123,9 +128,9 @@ for df in dfs:
     print("overall ", k)
 
 # Show the plot
-plt.xlabel('Time')
-plt.ylabel('Delta')
-plt.title('Time Series of Delta with Error Bars')
+plt.xlabel('Zeit', fontsize=font_size)
+plt.ylabel('Delta', fontsize=font_size)
+plt.title('Drift von Geräten')
 plt.legend()
 plt.grid(True)
 
