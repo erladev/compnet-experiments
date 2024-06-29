@@ -4,6 +4,10 @@ import matplotlib.pyplot as plt
 # Read the CSV file into a DataFrame
 df = pd.read_csv('results-drift.csv')
 
+df = df[df['interval'] != 'norm1']
+df = df[df['interval'] != 'norm2']
+
+
 # Pivot the DataFrame to get devices as columns, intervals as index, and drift as values
 pivot_df = df.pivot(index='device', columns='interval', values='drift')
 
@@ -19,4 +23,4 @@ plt.xticks(rotation=45)
 
 # Show the plot
 plt.legend(title='Device')
-plt.savefig('drifts.svg')
+plt.savefig('drifts.png')

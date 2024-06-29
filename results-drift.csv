@@ -4,13 +4,16 @@ norm1,lenovo,-0.000502224584638117
 cooled,lenovo,-0.00051529373233223
 norm2,lenovo,-0.000535433481893437
 heat,lenovo,-0.000520318553292587
-overall ex3,raspi,-4.41E-05
-norm1,raspi,-4.19E-05
+overall ex3,raspi,-0.0000441
+norm1,raspi,-0.0000419
+norm2,raspi,-0.0000415
+heat,raspi,-0.000044
+overall ex3,samsung,0.00000131
+norm1,samsung,0.0000366
+cooled,samsung,0.000000191
+norm2,samsung,0.0000119
+heat,samsung,0.0000042
+norm temp ex2,lenovo,-0.000513705106620913
+norm temp ex2,raspi,-5.32E-05
+norm temp ex2,samsung,1.78E-06
 cooled,raspi,-4.41E-05
-norm2,raspi,-4.15E-05
-heat,raspi,-4.40E-05
-overall ex3,samsung,1.31E-06
-norm1,samsung,3.66E-05
-cooled,samsung,1.91E-07
-norm2,samsung,1.19E-05
-heat,samsung,4.20E-06

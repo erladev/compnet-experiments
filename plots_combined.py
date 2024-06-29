@@ -84,6 +84,13 @@ for infile in inputs:
 
     plot(df, ax, '')
 
+if markers:
+    with open(markers, 'r') as f:
+        for m in f:
+            m=m.strip().split(', ')
+            x=datetime.strptime(m[0], "%Y-%m-%d %H:%M")
+            ax.axvline(x=x, linestyle='--', label=m[1])
+
 for df in dfs:
     print(df.iloc[0]['clientname'])
     if markers:
@@ -92,7 +99,6 @@ for df in dfs:
             for m in f:
                 m=m.strip().split(', ')
                 x=datetime.strptime(m[0], "%Y-%m-%d %H:%M")
-                ax.axvline(x=x, linestyle='--', label=m[1])
                 df_i = df.copy()
                 if last_sep is None:
                     df_i = df_i[df_i['timestamp'] < x]
